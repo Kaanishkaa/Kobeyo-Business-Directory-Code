@@ -18,3 +18,20 @@
   - **General Emails:** `info@`, `contact@`, `hello@`, `support@`, `admin@`, and personal emails
   - **Sales Emails:** `sales@`, `business@`, `partnerships@`, `marketing@`
 - URLs are shortened to a maximum of 80 characters.
+
+
+## Updates by Dharini (June 12)
+
+### Changes made:
+
+- Merged both code into single file
+- Scrapes up to **50 businesses per location**
+    Method `def search_places(query, location, max_results=50)` is updated for this
+- Supports **multiple business categories and cities** 
+- Extracts and find only 1 HR email address --> Still needs refining for personal address
+    Method `def extract_emails(text, soup=None)` is defined for this
+- Removed the sales email logic and will be implementing the same logic as HR emails
+- Finds social media profiles: Instagram, Facebook, and X (Twitter)
+    Method `def extract_socials(soup)` is defined for this
+- Methods for crawling and processing a business were updated while merging
+- Saves clean, structured data to CSV
