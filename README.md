@@ -35,3 +35,14 @@
     Method `def extract_socials(soup)` is defined for this
 - Methods for crawling and processing a business were updated while merging
 - Saves clean, structured data to CSV
+
+  
+## Updates by Kanishka (June 21)
+
+### Prompt Parser Notebook
+This notebook implements a Prompt Parser that takes in natural language queries (e.g., “Find coffee shops hiring in Los Angeles”) and extracts structured data from them using the Google Places API. The key functionalities include:
+
+Parsing input prompts to identify relevant entities like business type, intent, and location.
+Making API requests to the Google Places Text Search API.
+Returning structured outputs such as place IDs and metadata for downstream use (e.g., job search, mapping).
+It includes logging of search operations, error handling for API failures, and displays the number of results found.
