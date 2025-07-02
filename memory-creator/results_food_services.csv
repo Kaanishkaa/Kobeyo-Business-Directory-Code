@@ -1,0 +1,21 @@
+place_id,name,lat_lng,phone_number,website,types,predicted_business_type,confidence
+ChIJXVodUFfHwoARe63Z7LSuUnY,Girl & the Goat Los Angeles,"34.0402258, -118.2331693",(213) 799-4628,http://girlandthegoat.com/,"['restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJn27gbza5woARGlcPgv8gNn4,The Little Door,"34.0720931, -118.3675088",(323) 951-1210,https://thelittledoor.com/,"['bar', ' restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJ2wrtW3K5woARk7UY33VZ4XQ,Oste,"34.0721029, -118.3673558",(323) 413-2372,http://ostelosangeles.com/,"['restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJSRvZ1yHGwoARcLrfvc-APl4,Bestia,"34.0336488, -118.2292434",(213) 514-5724,http://www.bestiala.com/,"['restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJqbKnF0vGwoARREUrVhYGqTU,Perch,"34.0489961, -118.2514107",(213) 802-1770,http://perchla.com/,"['bar', ' restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJg4Tqa7PHwoARrWA-2kwYfDE,71Above,"34.0510292, -118.2544174",(213) 712-2683,https://www.71above.com/,"['restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJwbQBbdO4woARHT4khoXPnok,Chi Spacca,"34.08333, -118.339087",(323) 297-1133,http://www.chispacca.com/,"['restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJ_yXhTrTHwoARU36hVDFInhg,Bottega Louie,"34.0470524, -118.2565439",(213) 802-1470,http://www.bottegalouie.com/,"['cafe', ' bakery', ' restaurant', ' food', ' store', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJx-cckLTHwoARfAkrqMmW2So,Water Grill,"34.0490871, -118.2547951",(213) 891-0900,https://www.watergrill.com/la,"['restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJqaA5zt-4woARHGIEp3XlsZo,République Café Bakery & République Restaurant,"34.0640856, -118.3437963",(310) 362-6115,http://www.republiquela.com/,"['cafe', ' bar', ' bakery', ' restaurant', ' food', ' store', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJJxloG2HGwoARrnxMRe2L_ik,Majordomo,"34.0690046, -118.2261067",(323) 545-4880,http://www.majordomo.la/,"['restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJ-ctWhL3HwoAREIhxHfZVmsI,Le Grand Restaurant,"34.0471838, -118.2570099",(213) 210-7777,https://www.legrand-restaurant.com/,"['restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJKdvOsiTGwoAROdFrQHvqplE,The Factory Kitchen,"34.0389831, -118.2358783",(213) 996-6000,https://thefactorykitchen.com/,"['restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJG5wBgrfHwoARO_TfGQqe4xM,Fleming’s Prime Steakhouse & Wine Bar,"34.0448466, -118.2644713",(213) 745-9911,https://www.flemingssteakhouse.com/Locations/CA/Los-Angeles?y_source=1_MTU1MDMxOTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D,"['bar', ' restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJ8QbxZYTHwoAR9RMDcjmVra4,JOEY DTLA,"34.048017, -118.2580506",(213) 372-5335,https://joeyrestaurants.com/location/joey-dtla,"['restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJ4X25cGLHwoARQfoGIGJpJ8A,Cabra Los Angeles,"34.0397808, -118.2585555",(213) 725-5858,https://cabralosangeles.com/,"['restaurant', ' bar', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJv4yVGknGwoARC_5zwy3zU5M,Redbird,"34.0506001, -118.244075",(213) 788-1191,http://www.redbird.la/,"['restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJaUBtetO-woARqyrV4ASPECg,Providence,"34.0836043, -118.3301309",(323) 460-4170,https://providencela.com/,"['restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJAQDw5jzGwoARJ0ddsqWyCAQ,Bavel,"34.0414748, -118.2329994",(213) 232-4966,https://baveldtla.com/,"['restaurant', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7
+ChIJP0XXzpnHwoAR3rxS5t6diqY,DAMA Fashion District - Downtown LA Restaurant & Bar,"34.0352687, -118.2531717",(213) 741-0612,https://damafashiondistrict.com/,"['restaurant', ' bar', ' food', ' point_of_interest', ' establishment']",Restaurants,0.7

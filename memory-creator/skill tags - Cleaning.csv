@@ -1,0 +1,143 @@
+Skills Tags,Prompt Rule,Skills IDs,Skills Names
+BUSINESS TYPES,"maid services, house cleaning services, office cleaning services, commercial cleaning services, Dry cleaning, Specialty cleaning services, fire water and mold restoration, HAZMAT cleaning services, Window cleaning services, Pool cleaning, Carpet & upholstry cleaning services, Grease trap cleaning, Portable toilets services, Septic cleaning services",,
+,"Staffing & recruiting house cleaning, Industrial Staffing & Recruiting, Staffing & Recruiting Services, Recruiter, Accounting & Payroll Staffing & Recruiting, Customer Service Staffing & Recruiting, Sales Staffing & Recruiting, Admin Staffing & Recruiting, Manufacturing Staffing & Recruiting. Security Staffing, Video & Audio Production Staffing & Recruiting, Property Management Staffing & Recruiting, Staffing & Recruiting Mechanics",,
+SPECIAL TAGS(Taken from recruiting),"1) NO TAG
+Use this tag if there is no tag that represents the industry / specializations in the tags list of the recruiting business being analyzed, or this is not a recruiting / staffing / temp to hire / placement / etc. type of company or, it is but only recruits for executive level positions. If this special tag is used do not use any other tag.",,
+IMPORTANT NOTES,"Always include the tag ""Office location"" with the other tags that apply to the business / location, except when there is no ADDRESS.",,
+,"For the application link, many of these companies will have their own jobs page that lists the jobs they are trying to recruit for their customers. This is the best link for the application link, if one is found. ",,
+Office location,"1) Office location
+Office tag should be used for companies at every location. ","71, 104, 112, 115, 158, 163","71: Sales & Customer Service>Customer Service>Customer service
+104: Administrative, Payments & Accounting>Management>Administrative / clerical
+112: Administrative, Payments & Accounting>General Administrative>Administrative / clerical
+115: Administrative, Payments & Accounting>Billing, Payroll & Accounting>Accounts receivable
+158: Human Resources & Recruiting>Management>Human resources
+163: Human Resources & Recruiting>HR Operations>Human resources"
+Laundromats & Dry Cleaning businesses,"2) Laundromats & Dry Cleaning businesses
+Use this tag if the business is a Laundromats and / or  Dry Cleaning business.","195, 210, 211","195: Cleaning & Remediation>Management>Laundry services
+210: Cleaning & Remediation>Service Area>General labor: light lifting
+211: Cleaning & Remediation>Service Area>General labor: heavy lifting"
+Travel residential house cleaning,"3) Travel residential house cleaning
+Use this tag if the business offers residential house cleaning only.","194, 200","194: Cleaning & Remediation>Management>Housekeeping services
+200: Cleaning & Remediation>Service Area>Housekeeping services"
+Travel janitorial and commercial building cleaning,"4) Travel janitorial and commercial building cleaning
+Use this tag if the business offers janitorial / commercial building cleaning services only.","196, 201","196: Cleaning & Remediation>Management>Janitorial / custodial
+201: Cleaning & Remediation>Service Area>Janitorial / custodial"
+Travel Fire flood & mold,"5) Travel Fire flood & mold
+Use this tag if the business offers cleaning services for fire, flood & mold.","197, 202, 211","197: Cleaning & Remediation>Management>Disaster remediation & cleanup
+202: Cleaning & Remediation>Service Area>Fire, flood & mold
+211: Cleaning & Remediation>Service Area>General labor: heavy lifting"
+Travel hazmat,"6) Travel hazmat
+Use this tag if the business offers HAZMAT cleaning services.",203,203: Cleaning & Remediation>Service Area>Hazmat / biohazard
+Travel Window cleaning service residential,"7) Travel Window cleaning service residential
+Use this tag if the business offers residential window cleaning services only.","206, 211","206: Cleaning & Remediation>Service Area>Window cleaning: residential
+211: Cleaning & Remediation>Service Area>General labor: heavy lifting"
+Travel Window cleaning service commercial,"8) Travel Window cleaning service commercial
+Use this tag if the business offers commercial window cleaning services only.","207, 211","207: Cleaning & Remediation>Service Area>Window cleaning: commercial
+211: Cleaning & Remediation>Service Area>General labor: heavy lifting"
+Travel Pool & hot tub cleaning services,"9) Travel Pool & hot tub cleaning services
+Use this tag if the business offers pool and / or hot tub cleaning services.",204,204: Cleaning & Remediation>Service Area>Maintenance & service: residential pools
+Travel Carpet and Upholstery,"10) Travel Carpet and Upholstery
+Use this tag if the business offers carpet and / or upholstery.","208, 211","208: Cleaning & Remediation>Service Area>Carpet & upholstry
+211: Cleaning & Remediation>Service Area>General labor: heavy lifting"
+Travel Grease Trap Septic Portable Toilets Cleaning,"11) Travel Grease Trap Septic Portable Toilets Cleaning
+Use this tag if the business offers cleaning services for Grease Traps, Septic, Portable Toilets Cleaning, etc where a truck will have to be used, mainly a tanker truck.","211, 311, 312, 314","211: Cleaning & Remediation>Service Area>General labor: heavy lifting
+311: Driving & Equipment Operation>Commercial Driver's Licenses>Class B
+312: Driving & Equipment Operation>Commercial Driver's Licenses>Class C
+314: Driving & Equipment Operation>Commercial Driver's Licenses>Endorsement N: tanker vehicles"
+Office,"2) Office
+Always use this tag unless the a special tag is used.","104, 112, 158, 159, 163, 164","104: Administrative, Payments & Accounting>Management>Administrative / clerical
+112: Administrative, Payments & Accounting>General Administrative>Administrative / clerical
+158: Human Resources & Recruiting>Management>Human resources
+159: Human Resources & Recruiting>Management>Recruiting
+163: Human Resources & Recruiting>HR Operations>Human resources
+164: Human Resources & Recruiting>HR Operations>Recruiting / talent acquisition"
+Accounting & Payroll,"3) Accounting & Payroll
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for roles in Payroll, AR, AR, Bookkeeping, Accounting, etc.","105, 106, 107, 108, 109, 110, 11, 114, 115, 116, 117, 118, 119, 120","105: Administrative, Payments & Accounting Management Accounts payable
+106: Administrative, Payments & Accounting Management Accounts receivable
+107: Administrative, Payments & Accounting Management Medical billing
+108: Administrative, Payments & Accounting Management Payroll
+109: Administrative, Payments & Accounting Management Accounting: personal
+110: Administrative, Payments & Accounting Management Accounting: commercial
+111: Administrative, Payments & Accounting Management Finance: business / organizational
+114: Administrative, Payments & Accounting Billing, Payroll & Accounting Accounts payable
+115: Administrative, Payments & Accounting Billing, Payroll & Accounting Accounts receivable
+116: Administrative, Payments & Accounting Billing, Payroll & Accounting Medical billing
+117: Administrative, Payments & Accounting Billing, Payroll & Accounting Payroll
+118: Administrative, Payments & Accounting Billing, Payroll & Accounting Bookkeeping
+119: Administrative, Payments & Accounting Billing, Payroll & Accounting Accounting: commercial
+120: Administrative, Payments & Accounting Billing, Payroll & Accounting Accounting: personal"
+Customer Service,"4) Customer Service
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for roles in customer service such as customer service representatives, call center service reps, cust service managers, hotel customer service, etc.","57, 71","57: Sales & Customer Service Management Customer service
+71: Sales & Customer Service Customer Service Customer service"
+Sales & Business Development,"5) Sales & Business Development
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for roles in sales / business development.","55, 56, 59, 60","55: Sales & Customer Service Management Sales: consumer
+56: Sales & Customer Service Management Sales: commercial / enterprise
+59: Sales & Customer Service Sales Sales: consumer / retail
+60: Sales & Customer Service Sales Sales: commercial / enterprise"
+Marketing,"6) Marketing
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for roles in marketing, such as marketing managers or associates, digital marketing, ads management, social media marketers, etc.","75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101","75: Marketing, Media & Content Creation Management Marketing
+76: Marketing, Media & Content Creation Management Digital advertising
+77: Marketing, Media & Content Creation Management Social media marketing
+78: Marketing, Media & Content Creation Management Video: production
+79: Marketing, Media & Content Creation Management Audio: production
+80: Marketing, Media & Content Creation Management Graphic design
+81: Marketing, Media & Content Creation Digital Advertising & Social Media Marketing Paid ads: social media
+82: Marketing, Media & Content Creation Digital Advertising & Social Media Marketing Paid ads: ecommerce & retail
+83: Marketing, Media & Content Creation Digital Advertising & Social Media Marketing Paid ads: search / SEM
+84: Marketing, Media & Content Creation Digital Advertising & Social Media Marketing Paid ads: programmatic
+85: Marketing, Media & Content Creation Digital Advertising & Social Media Marketing SEO
+86: Marketing, Media & Content Creation Digital Advertising & Social Media Marketing ASO
+87: Marketing, Media & Content Creation Digital Advertising & Social Media Marketing Email marketing
+88: Marketing, Media & Content Creation Digital Advertising & Social Media Marketing Social media marketing
+89: Marketing, Media & Content Creation Models, Performers & Influencers / Brand Ambassadors Influencer: social media platforms
+90: Marketing, Media & Content Creation Models, Performers & Influencers / Brand Ambassadors Influencer: blogs & newsletters
+91: Marketing, Media & Content Creation Models, Performers & Influencers / Brand Ambassadors Model
+92: Marketing, Media & Content Creation Models, Performers & Influencers / Brand Ambassadors Performer
+93: Marketing, Media & Content Creation Audio, Video, Photo & Graphic Design Photography
+94: Marketing, Media & Content Creation Audio, Video, Photo & Graphic Design Video: recording
+95: Marketing, Media & Content Creation Audio, Video, Photo & Graphic Design Video: post production / editing
+96: Marketing, Media & Content Creation Audio, Video, Photo & Graphic Design Drones: arial
+97: Marketing, Media & Content Creation Audio, Video, Photo & Graphic Design Audio: recording
+98: Marketing, Media & Content Creation Audio, Video, Photo & Graphic Design Audio: post-production
+99: Marketing, Media & Content Creation Audio, Video, Photo & Graphic Design Graphic design
+100: Marketing, Media & Content Creation Writing Copywriting
+101: Marketing, Media & Content Creation Writing Articles, blogs & newsletters"
+Welding,"8) Welding
+Used if the company mentions on their website that they offer some type of staffing / recruiting services covering welding.","537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548","537: Construction, Install & Maintenance: Infrastructure & Property	Welding, Torch Cutting, Soldering & Brazing	Soldering
+538: Construction, Install & Maintenance: Infrastructure & Property	Welding, Torch Cutting, Soldering & Brazing	Brazing
+539: Construction, Install & Maintenance: Infrastructure & Property	Welding, Torch Cutting, Soldering & Brazing	Cutting / OFC-A
+540: Construction, Install & Maintenance: Infrastructure & Property	Welding, Torch Cutting, Soldering & Brazing	Exothermic
+541: Construction, Install & Maintenance: Infrastructure & Property	Welding, Torch Cutting, Soldering & Brazing	MIG / GMAW
+542: Construction, Install & Maintenance: Infrastructure & Property	Welding, Torch Cutting, Soldering & Brazing	MAG / GMAW
+543: Construction, Install & Maintenance: Infrastructure & Property	Welding, Torch Cutting, Soldering & Brazing	Stick / SMAW
+544: Construction, Install & Maintenance: Infrastructure & Property	Welding, Torch Cutting, Soldering & Brazing	TIG / GTAW
+545: Construction, Install & Maintenance: Infrastructure & Property	Welding, Torch Cutting, Soldering & Brazing	Flux-cored / FCAW
+546: Construction, Install & Maintenance: Infrastructure & Property	Welding, Torch Cutting, Soldering & Brazing	PAW
+547: Construction, Install & Maintenance: Infrastructure & Property	Welding, Torch Cutting, Soldering & Brazing	Atomic hydrogen / AHW
+548: Construction, Install & Maintenance: Infrastructure & Property	Welding, Torch Cutting, Soldering & Brazing	Underwater"
+Food & Beverage,"9) Food & Beverage
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for roles in Food & Beverage, such as servers, bartenders, bakers, kitchen managers, and anyone working in food and beverage.",,cashier
+Hotels & Lodging,"10) Hotels & Lodging
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for roles in Hotels / Lodging such as cust service, front desk, hotel management, etc. ",,
+Cleaning Housekeeping,"11) Cleaning Housekeeping
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for roles for housekeeping. This could be for a hotel, for houses, or any other cleaning services related cleaning services.",,
+Cleaning Janitorial,"12) Cleaning Janitorial
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for roles in janitorial cleaning services. This could be for commercial buildings, or cleaning up after events and entertainment venues, or any other places where janitorial services are used.",,
+Property Management,"13) Maintenance Residential Buildings
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for roles in Maintenance for Residential Buildings & Properties, or Commercial Buildings & Properties.",,"property managers, leasing agents, maintenance "
+Warehouse & Distribution & Logistics,"14) Warehouse & Distribution & Logistics
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for roles in Warehouse / Distribution / Logistics like forklift drivers, recieving, logistics manager, warehouse manager, port manager, transportation manager, dispatch, general labor for a warehouse, pickers / packers, inventory, or any other similar roles for operating a warehouse / distribution center.",,maintenance industrial
+Trucking & Drivers,"15) Trucking & Drivers
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for driving roles in transportation, like commercial drivers.",,
+Heavy Equipment Operators,"16) Heavy Equipment Operators:
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for roles in heavy equipment operation like dozers, excavators, road pavers, etc.",,don't include forklift
+Manufacturing & Fabrication & Industrial Equipment,"17) Manufacturing & Fabrication & Industrial Equipment
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for roles in Manufacturing & Fabrication such as machine operator, CNC machinist, tool & die maker, manufacturing line worker, etc.",,"Maintenance - Industrial Equipment, such as machine mechanic, industrial mechanic, millwright, etc"
+Mechanics,"18) Mechanics
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for mechanics roles.",,
+Construction & Building,"19) Construction & Building
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for roles in Construction / Building for any residential, commercial, industrial, municipal, infrastructure, etc positions.",,
+Legal,"20) Legal
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for roles in the legal field.",,
+Healthcare & Medical,"21) Healthcare & Medical
+Used if the company mentions on their website that they offer some type of staffing / recruiting services for roles for any medical staff or roles in doctor offices, medical specialists, medical billing, hospitals, end of life care centers, retirement homes, etc.",,

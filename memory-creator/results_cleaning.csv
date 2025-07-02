@@ -1,0 +1,6 @@
+place_id,name,lat_lng,phone_number,website,types,predicted_business_type,confidence
+ChIJAQBAe3vHwoARivYM-KHzghw,Maid For LA Home And Office Cleaning Service,"34.0663053, -118.3511646",(323) 632-5693,https://maidforla.com/,"['point_of_interest', ' establishment']",office cleaning services,0.9
+ChIJfa83bIXHwoARrENp74bPt1w,Los Angeles House Cleaning & Maids Co,"34.0540387, -118.2511548",(213) 898-2012,https://lacleaningco.com/,"['point_of_interest', ' establishment']",house cleaning services,0.9
+ChIJWxsE_5q7woARolxoAf_LTKU,MaidThis Cleaning of Los Angeles,"34.0931967, -118.3830489",(424) 728-5841,https://maidthis.com/house-cleaning-services/los-angeles/,"['point_of_interest', ' establishment']",house cleaning services,0.9
+ChIJ281C1BG7woARPiHuwu8PMQI,Sparkle & Shine Cleaning LA - LA House Cleaners,"34.0485592, -118.4313265",(213) 693-2073,https://www.sparkleshinela.com/?utm_campaign=gmb,"['point_of_interest', ' establishment']",house cleaning services,0.9
+ChIJh4iE517BwoARU2NmIon73SE,HouseClean Los Angeles - Maid & House Cleaning Service,"34.107126, -118.2784144",(213) 290-5208,https://housecleanlosangeles.com/,"['point_of_interest', ' establishment']",maid services,0.9

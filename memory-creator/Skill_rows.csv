@@ -1,0 +1,696 @@
+id,category,subcategory,name,priority,group,job_titles,archived,subCatOrderID,skillOrderID,mainCatOrderID
+1,Retail & Foodservice,Management,Retail,5,,"General Manager, Manager",false,1,1,1
+2,Retail & Foodservice,Management,Merchandising,5,,"Merchandising Manager, Merchandising Operations Lead",false,1,3,1
+3,Retail & Foodservice,Management,Procurement: consumer / retail,5,,"Procurement Manager, Buying Operations Lead, Procurement Lead",false,1,4,1
+4,Retail & Foodservice,Management,Procurement: commercial / enterprise,5,,"Procurement Manager, Buying Operations Lead, Procurement Lead",false,1,5,1
+5,Retail & Foodservice,Management,Inventory,5,1,"Inventory Manager, Inventory Operations Lead",false,1,6,1
+6,Retail & Foodservice,Management,Auditing,5,,"Audit Manager, Audit Lead",false,1,7,1
+7,Retail & Foodservice,Management,"Restaurants, Food & Beverage",5,,"General Manager, Restaurant Manager, Food & Beverage Manager",false,1,8,1
+8,Retail & Foodservice,Management,Front of house,5,,"Front of House Manager, Front of House Lead, Dining Manager",false,1,9,1
+9,Retail & Foodservice,Management,Bar,5,,"Bar Manager, Bar Operations Manager",false,1,10,1
+10,Retail & Foodservice,Management,Kitchen,5,,"Kitchen Manager, BOH Operations Manager",false,1,11,1
+11,Retail & Foodservice,Management,Catering,5,,"Catering Manager, Catering Operations Lead",false,1,12,1
+12,Retail & Foodservice,Management,Baking,5,,"Head Baker, Baking Manager, Baking Operations Lead",false,1,13,1
+13,Retail & Foodservice,Management,Pastry,5,,"Pastry Chef, Pastry Manager, Pastry Operations Lead",false,1,14,1
+14,Retail & Foodservice,Management,Meat & Seafood,5,,"Meat & Seafood Manager, Meat & Seafood Lead",false,1,15,1
+15,Retail & Foodservice,Management,Valet / parking,4,2,"Parking Manager, Parking Management, Parking Lead, Parking Supervisor",false,1,16,1
+16,Retail & Foodservice,"Sales, Customer Services & Retail Operations",Sales: consumer / retail,3,3,"Sales Associate, Salesperson, Sales, Sales Representative",false,2,1,1
+17,Retail & Foodservice,"Sales, Customer Services & Retail Operations",Sales: commercial / enterprise,4,4,"Sales Associate, Salesperson, Sales, Sales Representative",false,2,2,1
+18,Retail & Foodservice,"Sales, Customer Services & Retail Operations",Customer service,3,6,"Customer Service Associate, Customer Service, Associate",false,2,4,1
+19,Retail & Foodservice,"Sales, Customer Services & Retail Operations",Cashier,2,8,"Cashier, Team Member, Associate",false,2,5,1
+20,Retail & Foodservice,"Sales, Customer Services & Retail Operations",Bank teller,3,9,"Bank Teller, Teller",false,2,6,1
+21,Retail & Foodservice,"Sales, Customer Services & Retail Operations",Procurement: consumer / retail,3,,"Procurement, Buyer, Purchasing Associate, Buying Specialist",false,2,7,1
+22,Retail & Foodservice,"Sales, Customer Services & Retail Operations",Procurement: commercial / enterprise,4,,"Procurement, Buyer, Purchasing Associate, Buying Specialist",false,2,8,1
+23,Retail & Foodservice,"Sales, Customer Services & Retail Operations",Merchandising,3,,Merchandiser,false,2,9,1
+24,Retail & Foodservice,"Sales, Customer Services & Retail Operations",Receiving,3,10,"Receiver, Receiving Associate",false,2,10,1
+25,Retail & Foodservice,"Sales, Customer Services & Retail Operations",Inventory,3,11,"Inventory Specialist, Inventory Associate",false,2,11,1
+26,Retail & Foodservice,"Sales, Customer Services & Retail Operations",Auditing,3,,Auditor,false,2,12,1
+27,Retail & Foodservice,"Sales, Customer Services & Retail Operations",General labor: light lifting,1,12,"Team Member, Associate, Crew Member",false,2,13,1
+28,Retail & Foodservice,"Sales, Customer Services & Retail Operations",General labor: heavy lifting,1,13,"Team Member, Associate, Crew Member",false,2,14,1
+29,Retail & Foodservice,"Sales, Customer Services & Retail Operations",Janitorial / custodial,2,14,"Steward, Custodian, Janitorial Services Associate",false,2,15,1
+30,Retail & Foodservice,"Sales, Customer Services & Retail Operations",Valet / parking,1,15,"Parking Attendant, Parking Associate, Parking Valet, Car Attendant",false,2,16,1
+31,Retail & Foodservice,"Hosts, Servers & Dining Services",Host,2,,Host,false,3,1,1
+32,Retail & Foodservice,"Hosts, Servers & Dining Services",Server / waitstaff,3,5,"Server, Waitstaff",false,3,2,1
+33,Retail & Foodservice,"Hosts, Servers & Dining Services",Food runner,2,,Food Runner,false,3,3,1
+34,Retail & Foodservice,"Hosts, Servers & Dining Services",Bussing tables,1,,"Busser, Table Busser",false,3,4,1
+35,Retail & Foodservice,"Hosts, Servers & Dining Services",Flight attendant,3,16,Flight Attendant,false,3,5,1
+36,Retail & Foodservice,Beverages,Barista,2,,Barista,false,4,1,1
+37,Retail & Foodservice,Beverages,Barback,1,,Barback,false,4,2,1
+38,Retail & Foodservice,Beverages,Bartender,3,,Bartender,false,4,3,1
+39,Retail & Foodservice,Beverages,Wine Steward / Sommelier,4,,Wine Steward,false,4,4,1
+40,Retail & Foodservice,Beverages,Brewing beer,4,17,Brewer,false,4,5,1
+41,Retail & Foodservice,Beverages,Distilling spirits,4,18,Distiller,false,4,6,1
+42,Retail & Foodservice,Beverages,Roasting coffee,3,19,Coffee Roaster,false,4,7,1
+43,Retail & Foodservice,"Kitchen / Food ",Dishwasher,1,,Dishwasher,false,5,1,1
+44,Retail & Foodservice,"Kitchen / Food ",Expeditor,3,,Expeditor,false,5,2,1
+45,Retail & Foodservice,"Kitchen / Food ",Food prep / assembly,2,,"Food Prep, Food Production",false,5,3,1
+46,Retail & Foodservice,"Kitchen / Food ",Cook,3,,Cook,false,5,4,1
+47,Retail & Foodservice,"Kitchen / Food ",Making sushi,3,,Sushi Chef,false,5,5,1
+48,Retail & Foodservice,"Kitchen / Food ",Making pizza,3,,Pizza Cook,false,5,6,1
+49,Retail & Foodservice,"Kitchen / Food ",Making pasta,3,,Pasta Maker,false,5,7,1
+50,Retail & Foodservice,"Kitchen / Food ",Butcher,3,,Butcher,false,5,8,1
+51,Retail & Foodservice,"Kitchen / Food ",Fishmonger / seafood,3,,Fishmonger,false,5,9,1
+52,Retail & Foodservice,"Kitchen / Food ",Baking,2,,Baker,false,5,10,1
+53,Retail & Foodservice,"Kitchen / Food ",Pastry,3,,Pastry Cook,false,5,11,1
+54,Retail & Foodservice,"Kitchen / Food ",Confection,3,,"Confection Production, Confection Production Associate, Confections Specialist",false,5,12,1
+55,Sales & Customer Service,Management,Sales: consumer,5,,"Sales Manager, Management: Sales, Sales Lead",false,1,1,2
+56,Sales & Customer Service,Management,Sales: commercial / enterprise,5,,"Enterprise Sales Manager, Business Development Manager, Management: Sales, Sales Lead",false,1,2,2
+57,Sales & Customer Service,Management,Customer service,5,7,"Customer Service Manager, Client Service Manager, Client Relations Manager, Customer Support Manager",false,1,3,2
+58,Sales & Customer Service,Management,Fundraising,5,,"Fundraising Manager, Fundraising Development Manager, Partnerships Manager, Gifts Manager, Donor Relations Manager",false,1,4,2
+59,Sales & Customer Service,Sales,Sales: consumer / retail,3,3,"Sales Associate, Salesperson, Sales, Sales Representative",false,2,1,2
+60,Sales & Customer Service,Sales,Sales: commercial / enterprise,4,4,"Sales Associate, Salesperson, Sales, Sales Representative",false,2,2,2
+61,Sales & Customer Service,Sales,Server / waitstaff,3,5,"Server, Waitstaff",false,2,3,2
+62,Sales & Customer Service,Sales,Real estate agent: residential,3,20,"Residential Real Estate Agent, Real Estate Sales Professional",false,2,5,2
+63,Sales & Customer Service,Sales,Real estate agent: commercial,4,21,"Commercial Real Estate Agent, Real Estate Sales Professional",false,2,6,2
+64,Sales & Customer Service,Sales,Insurance: consumer,3,24,"Insurance Agent, Insurance Broker, Insurance Sales Representative",false,2,9,2
+65,Sales & Customer Service,Sales,Insurance: commercial,3,25,"Insurance Agent, Insurance Broker, Insurance Sales Representative",false,2,10,2
+66,Sales & Customer Service,Sales,Financial planning / wealth management,4,26,"Financial Advisor, Financial Planner, Wealth Planner, Financial Planning Advisor",false,2,11,2
+67,Sales & Customer Service,Sales,Banking: commercial,4,27,"Commercial Banker, Commercial Banking Specialist",false,2,12,2
+68,Sales & Customer Service,Sales,Loans: consumer,4,28,"Personal Loan Officer, Loan Officer",false,2,13,2
+69,Sales & Customer Service,Sales,Loans: commercial,4,29,"Commercial Loan Officer, Loan Officer",false,2,14,2
+70,Sales & Customer Service,Sales,Fundraising,3,,"Fundraising Development, Fundraising Development Officer, Fundraising Specialist",false,2,15,2
+71,Sales & Customer Service,Customer Service,Customer service,3,6,"Customer Service Associate, Customer Service, Associate",false,3,1,2
+72,Sales & Customer Service,Customer Service,Cashier,2,8,"Cashier, Team Member, Associate",false,3,2,2
+73,Sales & Customer Service,Customer Service,Bank teller,3,9,"Bank Teller, Teller",false,3,3,2
+74,Sales & Customer Service,Customer Service,Flight attendant,3,16,Flight Attendant,false,3,4,2
+75,"Marketing, Media & Content Creation",Management,Marketing,5,,"Marketing Manager, Marketing Strategy Manager?",false,1,1,3
+76,"Marketing, Media & Content Creation",Management,Digital advertising,5,,"Digital Advertising Manager, Digital Ads Manager, Digital Advertising Team Lead",false,1,2,3
+77,"Marketing, Media & Content Creation",Management,Social media marketing,5,,"Social Media Marketing Manager, Social Media Marketing Team Lead",false,1,3,3
+78,"Marketing, Media & Content Creation",Management,Video: production,5,30,Video Production Manager,false,1,4,3
+79,"Marketing, Media & Content Creation",Management,Audio: production,5,31,"Audio Production Manager, Audio Engineer Lead",false,1,5,3
+80,"Marketing, Media & Content Creation",Management,Graphic design,5,,"Graphic Design Manager, Graphic Design Team Lead",false,1,6,3
+81,"Marketing, Media & Content Creation",Digital Advertising & Social Media Marketing,Paid ads: social media,4,,"Social Media Paid Ads Specialist, Social Media Ads Specialist",false,2,1,3
+82,"Marketing, Media & Content Creation",Digital Advertising & Social Media Marketing,Paid ads: ecommerce & retail,4,,"Ecommerce Paid Ads Specialist, Ecommerce Ads Specialist",false,2,2,3
+83,"Marketing, Media & Content Creation",Digital Advertising & Social Media Marketing,Paid ads: search / SEM,4,,"Paid Search Ads Specialist, PPC Ads Specialist, Paid Search Specialist",false,2,3,3
+84,"Marketing, Media & Content Creation",Digital Advertising & Social Media Marketing,Paid ads: programmatic,4,,Programmatic Advertising Specialist,false,2,4,3
+85,"Marketing, Media & Content Creation",Digital Advertising & Social Media Marketing,SEO,4,,SEO Specialist,false,2,5,3
+86,"Marketing, Media & Content Creation",Digital Advertising & Social Media Marketing,ASO,4,,ASO Specialist,false,2,6,3
+87,"Marketing, Media & Content Creation",Digital Advertising & Social Media Marketing,Email marketing,4,,Email Marketing Specialist,false,2,7,3
+88,"Marketing, Media & Content Creation",Digital Advertising & Social Media Marketing,Social media marketing,4,,"Social Media Brand Manager, Social Media Engagement Manager, Social Media Community Manager",false,2,8,3
+89,"Marketing, Media & Content Creation","Models, Performers & Influencers / Brand Ambassadors",Influencer: social media platforms,3,32,Influencer,false,3,1,3
+90,"Marketing, Media & Content Creation","Models, Performers & Influencers / Brand Ambassadors",Influencer: blogs & newsletters,3,33,Influencer,false,3,2,3
+91,"Marketing, Media & Content Creation","Models, Performers & Influencers / Brand Ambassadors",Model,3,34,Model,false,3,3,3
+92,"Marketing, Media & Content Creation","Models, Performers & Influencers / Brand Ambassadors",Performer,3,35,Performer,false,3,4,3
+93,"Marketing, Media & Content Creation","Audio, Video, Photo & Graphic Design ",Photography,3,36,Photographer,false,4,1,3
+94,"Marketing, Media & Content Creation","Audio, Video, Photo & Graphic Design ",Video: recording,3,37,Video Recording Professional,false,4,2,3
+95,"Marketing, Media & Content Creation","Audio, Video, Photo & Graphic Design ",Video: post production / editing,4,,Post-Production Video Specialist,false,4,3,3
+96,"Marketing, Media & Content Creation","Audio, Video, Photo & Graphic Design ",Drones: arial,3,38,Drone Operator,false,4,4,3
+97,"Marketing, Media & Content Creation","Audio, Video, Photo & Graphic Design ",Audio: recording,3,39,Audio Recording Professional,false,4,5,3
+98,"Marketing, Media & Content Creation","Audio, Video, Photo & Graphic Design ",Audio: post-production,4,,Post-Production Audio Specialist,false,4,6,3
+99,"Marketing, Media & Content Creation","Audio, Video, Photo & Graphic Design ",Graphic design,4,,Graphic Designer,false,4,7,3
+100,"Marketing, Media & Content Creation",Writing,Copywriting,4,,Copywriter,false,5,1,3
+101,"Marketing, Media & Content Creation",Writing,"Articles, blogs & newsletters",4,,Writer,false,5,2,3
+102,"Marketing, Media & Content Creation",Writing,Books,4,,Writer,false,5,3,3
+103,"Marketing, Media & Content Creation",Writing,Screenwriting,4,,Screenwriter,false,5,4,3
+104,"Administrative, Payments & Accounting",Management,Administrative / clerical,5,,"Office Manager, Administrative Manager, Administrative Supervisor, Office Operations Manager, Administrative Support Manager",false,1,1,4
+105,"Administrative, Payments & Accounting",Management,Accounts payable,5,,"Accounts Payable Supervisor, Accounts Payable Manager, Accounts Payable Team Lead",false,1,2,4
+106,"Administrative, Payments & Accounting",Management,Accounts receivable,5,,"Accounts Receivable Supervisor, Accounts Receivable Manager, Accounts Receivable Team Lead",false,1,3,4
+107,"Administrative, Payments & Accounting",Management,Medical billing,5,40,"Medical Billing Manager, Medical Billing Supervisor",false,1,4,4
+108,"Administrative, Payments & Accounting",Management,Payroll,5,,"Payroll Manager, Payroll Operations Manager, Payroll Supervisor, Payroll Services Manager, Payroll Administration Manager",false,1,5,4
+109,"Administrative, Payments & Accounting",Management,Accounting: personal,5,,"Personal Accounting Manager, Accounting Manager",false,1,6,4
+110,"Administrative, Payments & Accounting",Management,Accounting: commercial,5,,Accounting Manager,false,1,7,4
+111,"Administrative, Payments & Accounting",Management,Finance: business / organizational,5,41,"Finance Manager, Financial Operations Manager",false,1,8,4
+112,"Administrative, Payments & Accounting",General Administrative,Administrative / clerical,3,42,"Administrative Assistant, Office Administrator, Administrative Support Specialist",false,2,1,4
+113,"Administrative, Payments & Accounting",General Administrative,Executive assistant,3,,Executive Assistant,false,2,2,4
+114,"Administrative, Payments & Accounting","Billing, Payroll & Accounting",Accounts payable,3,,"Accounts Payable Specialist, Accounts Payable Clerk, Accounts Payable Coordinator, Accounts Payable Administrator, Accounts Payable Associate",false,3,1,4
+115,"Administrative, Payments & Accounting","Billing, Payroll & Accounting",Accounts receivable,3,,"Accounts Receivable Specialist, Accounts Receivable Clerk, Accounts Receivable Coordinator, Accounts Receivable Administrator, Accounts Receivable Associate",false,3,2,4
+116,"Administrative, Payments & Accounting","Billing, Payroll & Accounting",Medical billing,3,43,"Medical Billing Specialist, Medical Billing Administrator, Medical Billing Coordinator",false,3,3,4
+117,"Administrative, Payments & Accounting","Billing, Payroll & Accounting",Payroll,3,,"Payroll Administrator, Payroll Specialist, Payroll Coordinator, Payroll Clerk, Payroll Support Specialist",false,3,4,4
+118,"Administrative, Payments & Accounting","Billing, Payroll & Accounting",Bookkeeping,3,,Bookkeeper,false,3,5,4
+119,"Administrative, Payments & Accounting","Billing, Payroll & Accounting",Accounting: commercial,4,,"Business Accountant, Accountant",false,3,6,4
+120,"Administrative, Payments & Accounting","Billing, Payroll & Accounting",Accounting: personal,4,,"Personal Accountant, Accountant",false,3,7,4
+121,"Finance, Banking & Insurance",Management,Finance: business / organizational,5,41,"Finance Manager, Financial Operations Manager",false,1,1,5
+122,"Finance, Banking & Insurance",Management,Finance: investments,5,,"Investment Manager, Asset Manager, Portfolio Manager",false,1,2,5
+123,"Finance, Banking & Insurance",Management,Banking: consumer,5,,"Consumer Banking Manager, Retail Banking Manager",false,1,3,5
+124,"Finance, Banking & Insurance",Management,Banking: commercial,5,,"Commercial Banking Manager, Business Banking Manager",false,1,4,5
+125,"Finance, Banking & Insurance",Management,Loans: consumer,5,,"Consumer Loan Manager, Retail Lending Manager",false,1,6,5
+126,"Finance, Banking & Insurance",Management,Loans: commercial,5,,"Commercial Lending Manager, Commercial Loan Manager",false,1,7,5
+127,"Finance, Banking & Insurance",Management,Underwriting: consumer banking,5,,"Consumer Underwriting Manager, Consumer Loan Underwriting Manager, Retail Underwriting Manager,  Consumer Banking Underwriting Manager",false,1,8,5
+128,"Finance, Banking & Insurance",Management,Underwriting: commercial banking,5,,"Commercial Underwriting Manager, Corporate Loan Underwriting Manager, Business Banking Underwriting Manager, Commercial Banking Underwriting Manager",false,1,9,5
+129,"Finance, Banking & Insurance",Management,Insurance: consumer,5,,Consumer Insurance Manager,false,1,10,5
+130,"Finance, Banking & Insurance",Management,Insurance: commercial,5,,"Commercial Insurance Manager, Business Insurance Manager",false,1,11,5
+131,"Finance, Banking & Insurance",Management,Underwriting: consumer insurance,5,,"Consumer Insurance Underwriting Manager, Consumer Insurance Underwriting Lead",false,1,12,5
+132,"Finance, Banking & Insurance",Management,Underwriting: commercial insurance,5,,"Commercial Insurance Underwriting Manager, Business Insurance Underwriting Manager",false,1,13,5
+133,"Finance, Banking & Insurance",Management,Claims: consumer,5,,"Consumer Claims Manager, Consumer Claims Lead",false,1,14,5
+134,"Finance, Banking & Insurance",Management,Claims: commercial,5,,"Commercial Claims Manager, Commercial Claims Lead",false,1,15,5
+135,"Finance, Banking & Insurance",Management,Escrow,5,83,"Escrow Manager, Escrow Operations Supervisor",false,1,16,5
+136,"Finance, Banking & Insurance",Sales,Sales: consumer / retail,3,3,"Sales Associate, Salesperson, Sales, Sales Representative",false,2,1,5
+137,"Finance, Banking & Insurance",Sales,Sales: commercial / enterprise,4,4,"Sales Associate, Salesperson, Sales, Sales Representative",false,2,2,5
+138,"Finance, Banking & Insurance",Sales,Insurance: consumer,3,24,"Insurance Agent, Insurance Broker, Insurance Sales Representative",false,2,4,5
+139,"Finance, Banking & Insurance",Sales,Insurance: commercial,3,25,"Insurance Agent, Insurance Broker, Insurance Sales Representative",false,2,5,5
+140,"Finance, Banking & Insurance",Sales,Financial planning / wealth management,4,26,"Financial Advisor, Financial Planner, Wealth Planner, Financial Planning Advisor",false,2,6,5
+141,"Finance, Banking & Insurance",Sales,Banking: commercial,4,27,"Commercial Banker, Commercial Banking Specialist",false,2,7,5
+142,"Finance, Banking & Insurance",Sales,Loans: consumer,4,28,"Personal Loan Officer, Loan Officer",false,2,8,5
+143,"Finance, Banking & Insurance",Sales,Loans: commercial,4,29,"Commercial Loan Officer, Loan Officer",false,2,9,5
+144,"Finance, Banking & Insurance","Client, Transaction & Insurance Services",Customer service,3,6,"Customer Service Associate, Customer Service, Associate",false,3,1,5
+145,"Finance, Banking & Insurance","Client, Transaction & Insurance Services",Bank teller,3,9,"Bank Teller, Teller",false,3,2,5
+146,"Finance, Banking & Insurance","Client, Transaction & Insurance Services",Escrow,3,44,"Escrow Administrator, Escrow Specialist",false,3,3,5
+147,"Finance, Banking & Insurance","Client, Transaction & Insurance Services",Property appraisal: auto,3,,"Auto Appraiser, Vehicle Appraisal Specialist, Auto Appraisal Specialist",false,3,4,5
+148,"Finance, Banking & Insurance","Client, Transaction & Insurance Services",Property appraisal: residential,3,45,"Residential Property Appraiser, Residential Property Appraisal Specialist, Residential Real Estate Appraiser",false,3,5,5
+149,"Finance, Banking & Insurance","Client, Transaction & Insurance Services",Property appraisal: commercial,3,46,"Commercial Property Appraiser, Commercial Property Appraisal Specialist, Commercial Real Estate Appraiser",false,3,6,5
+150,"Finance, Banking & Insurance","Client, Transaction & Insurance Services",Inspection: residential buildings,3,47,"Residential Building Inspector, Residential Building Inspection Specialist",false,3,7,5
+151,"Finance, Banking & Insurance","Client, Transaction & Insurance Services",Inspection: commercial buildings,3,48,"Commercial Building Inspector, Commercial Building Inspection Specialist",false,3,8,5
+152,"Finance, Banking & Insurance","Client, Transaction & Insurance Services",Underwriting: consumer loans,3,,"Consumer Loan Underwriter, Consumer Loan Underwriting Specialist, Consumer Loan Underwriting Administrator",false,3,9,5
+153,"Finance, Banking & Insurance","Client, Transaction & Insurance Services",Underwriting: commercial loans,3,,"Commercial Loan Underwriter, Commercial Loan Underwriting Specialist, Commercial Loan Underwriting Administrator",false,3,10,5
+154,"Finance, Banking & Insurance","Client, Transaction & Insurance Services",Claims: consumer,3,,"Consumer Claims Specialist, Consumer Claims Administrator, Personal Insurance Claims Specialist",false,3,11,5
+155,"Finance, Banking & Insurance","Client, Transaction & Insurance Services",Claims: commercial,3,,"Commercial Claims Specialist, Commercial Claims Administrator",false,3,12,5
+156,"Finance, Banking & Insurance","Client, Transaction & Insurance Services",Underwriting: consumer insurance,3,,"Consumer Insurance Underwriter, Consumer Insurance Underwriting Specialist, Consumer Insurance Underwriting Administrator",false,3,13,5
+157,"Finance, Banking & Insurance","Client, Transaction & Insurance Services",Underwriting: commercial insurance,3,,"Commercial Insurance Underwriter, Commercial Insurance Underwriting Specialist, Commercial Insurance Underwriting Administrator",false,3,14,5
+158,Human Resources & Recruiting,Management,Human resources,5,,"Human Resources Manager, HR Operations Manager, Human Resources Lead",false,1,1,6
+159,Human Resources & Recruiting,Management,Recruiting,5,,"Talent Acquisition Manager, Recruiting Manager, Talent Acquisition Manager",false,1,2,6
+160,Human Resources & Recruiting,Management,Benefits,5,,"Benefits Manager, Benefits Administration Manager",false,1,3,6
+161,Human Resources & Recruiting,Management,Compliance,5,,HR Compliance Manager,false,1,4,6
+162,Human Resources & Recruiting,Management,Training & development,5,,"HR Training Manager, HR Training and Development Manager",false,1,5,6
+163,Human Resources & Recruiting,HR Operations,Human resources,3,,"HR Associate, HR Generalist",false,2,1,6
+164,Human Resources & Recruiting,HR Operations,Recruiting / talent acquisition,3,,"Recruiter, Talent Acquisition Specialist, Recruiting Specialist",false,2,2,6
+165,Human Resources & Recruiting,HR Operations,Benefits,3,,"Benefits Specialist, Benefits Administrator",false,2,3,6
+166,Human Resources & Recruiting,HR Operations,Compliance,3,,"HR Compliance Specialist, HR Compliance Administrator",false,2,4,6
+167,Human Resources & Recruiting,HR Operations,Training & development,3,,"HR Training and Development Specialist, HR Training and Development Professional",false,2,5,6
+168,"Beauty, Body Art & Personal Care",Management,Salon,5,,Salon Manager,false,1,1,7
+169,"Beauty, Body Art & Personal Care",Management,Spa,5,49,Spa Manager,false,1,2,7
+170,"Beauty, Body Art & Personal Care",Management,Tattoo studio,5,,Tattoo Studio Manager,false,1,3,7
+171,"Beauty, Body Art & Personal Care",Specialization,Hair cutting & styling: men,3,,"Barber, Men's Hair Stylist",false,2,1,7
+172,"Beauty, Body Art & Personal Care",Specialization,Hair cutting & styling: women,3,,"Hair Stylist, Hairdresser",false,2,2,7
+173,"Beauty, Body Art & Personal Care",Specialization,Hair removal,3,,"Hair Removal Specialist, Esthetician",false,2,3,7
+174,"Beauty, Body Art & Personal Care",Specialization,Nails,3,,"Nail Technician, Nail Specialist, Cosmetologist",false,2,4,7
+175,"Beauty, Body Art & Personal Care",Specialization,Makeup,3,,"Makeup Specialist, Cosmetologist",false,2,5,7
+176,"Beauty, Body Art & Personal Care",Specialization,Skin care,3,,"Skin Care Specialist, Esthetician",false,2,6,7
+177,"Beauty, Body Art & Personal Care",Specialization,Massage therapy,3,50,Massage Therapist,false,2,7,7
+178,"Beauty, Body Art & Personal Care",Specialization,Tattoos,3,,Tattoo Artist,false,2,8,7
+179,"Beauty, Body Art & Personal Care",Specialization,Piercing,3,,Piercer,false,2,9,7
+180,Animal Care & Services,Management,Veterinarian Clinic,5,,Veterinary Practice Manager,false,1,1,8
+181,Animal Care & Services,Management,Pet Care Services & Facilities,5,,"Pet Facility Manager, Pet Care Operations Manager",false,1,2,8
+182,Animal Care & Services,Medical,Veterinarian,5,,Veterinarian,false,2,1,8
+183,Animal Care & Services,Medical,Veterinary assistant,4,,Veterinary Assistant,false,2,2,8
+184,Animal Care & Services,Pet Caretaking,Pet walking,2,,Pet Walker,false,3,1,8
+185,Animal Care & Services,Pet Caretaking,Pet sitting,2,,Pet Sitter,false,3,2,8
+186,Animal Care & Services,Pet Caretaking,Training,4,,Trainer,false,3,3,8
+187,Animal Care & Services,Pet Caretaking,Grooming,2,,Groomer,false,3,4,8
+188,Animal Care & Services,Pet Caretaking,General labor: light lifting,1,12,"Team Member, Associate, Crew Member",false,3,5,8
+189,Animal Care & Services,Pet Caretaking,General labor: heavy lifting,1,13,"Team Member, Associate, Crew Member",false,3,6,8
+190,Security,Management,Security,5,51,"Security Manager, Security Lead",false,1,1,9
+191,Security,Security Operations,Security: unarmed,3,52,"Unarmed Security Guard, Security, Security Guard",false,2,1,9
+192,Security,Security Operations,Security: armed,4,53,"Armed Security Guard, Armed Security",false,2,2,9
+193,Security,Security Operations,Dispatch,3,54,Dispatch,false,2,3,9
+194,Cleaning & Remediation,Management,Housekeeping services,5,55,"Housekeeper, Housekeeping",false,1,1,10
+195,Cleaning & Remediation,Management,Laundry services,5,,Laundry Services Manager,false,1,2,10
+196,Cleaning & Remediation,Management,Janitorial / custodial,5,56,"Janitorial Services Manager, Custodial Services Manager",false,1,3,10
+197,Cleaning & Remediation,Management,Disaster remediation & cleanup,5,,"Environmental Remediation Manager, Remediation & Cleanup Manager",false,1,4,10
+198,Cleaning & Remediation,Management,Maintenance & service: residential pools,5,,Residential Pool Maintenance & Service Manager,true,1,5,10
+199,Cleaning & Remediation,Management,Maintenance & service: commercial pools,5,57,Commercial Pool Maintenance & Service Manager,false,1,6,10
+200,Cleaning & Remediation,Service Area,Housekeeping services,2,58,"Housekeeping Service, Cleaning Service, Cleaning Professional, Housekeeping Professional",false,2,1,10
+201,Cleaning & Remediation,Service Area,Janitorial / custodial,2,14,"Steward, Custodian, Janitorial Services Associate",false,2,2,10
+202,Cleaning & Remediation,Service Area,"Fire, flood & mold",3,,"Remediation Specialist, Remediation Technician",false,2,3,10
+203,Cleaning & Remediation,Service Area,Hazmat / biohazard,4,,"Hazardous Waste Cleanup Specialist, HAZMAT Cleanup Professional",false,2,4,10
+204,Cleaning & Remediation,Service Area,Maintenance & service: residential pools,3,59,"Residential Pool Maintenance & Service Specialist, Residential Pool Maintenance & Service Professional",false,2,5,10
+205,Cleaning & Remediation,Service Area,Maintenance & service: commercial pools,4,60,"Commercial Pool Maintenance & Service Specialist, Commercial Pool Maintenance & Service Professional",false,2,6,10
+206,Cleaning & Remediation,Service Area,Window cleaning: residential,3,61,Residential Window Cleaner,false,2,7,10
+207,Cleaning & Remediation,Service Area,Window cleaning: commercial,3,62,Commercial Window Cleaner,false,2,8,10
+208,Cleaning & Remediation,Service Area,Carpet & upholstery,3,,Carpet / Upholstery Cleaner,false,2,9,10
+209,Cleaning & Remediation,Service Area,Chimneys,3,,Chimney Cleaner,false,2,10,10
+210,Cleaning & Remediation,Service Area,General labor: light lifting,1,12,"Team Member, Associate, Crew Member",false,2,11,10
+211,Cleaning & Remediation,Service Area,General labor: heavy lifting,1,13,"Team Member, Associate, Crew Member",false,2,12,10
+212,"Landscaping, Groundskeeping & Pest Control",Construction Project Management,Landscaping,5,65,Landscaping Project Manager,false,1,3,11
+213,"Landscaping, Groundskeeping & Pest Control",Grounds & Crew Management,Landscaping & groundskeeping: crew & grounds management,4,70,Landscaping Manager,false,1,7,11
+214,"Landscaping, Groundskeeping & Pest Control",Grounds & Crew Management,Landscaping & groundskeeping: golf courses,5,71,Golf Course Groundskeeping Manager,false,1,8,11
+215,"Landscaping, Groundskeeping & Pest Control",Grounds & Crew Management,Tree care,5,,Tree Care Manager,false,1,9,11
+216,"Landscaping, Groundskeeping & Pest Control",Grounds & Crew Management,Pest control,5,,Pest Control Manager,true,1,10,11
+217,"Landscaping, Groundskeeping & Pest Control",Services & Operations,Landscaping & groundskeeping,2,72,"Lawn technician, Landscaping professional",false,2,2,11
+218,"Landscaping, Groundskeeping & Pest Control",Services & Operations,Irrigation,3,73,"Irrigation Specialist, Irrigation Professional, Irrigation Tech",false,2,3,11
+219,"Landscaping, Groundskeeping & Pest Control",Services & Operations,Tree & shrub care,3,74,"Tree & Shrub Care Specialist, Tree & Shrub Care Professional",false,2,4,11
+220,"Landscaping, Groundskeeping & Pest Control",Services & Operations,Tree trimming,3,75,"Tree Trimming Specialist, Tree Trimming Professional",false,2,5,11
+221,"Landscaping, Groundskeeping & Pest Control",Services & Operations,Chemical application: lawn care,3,76,Chemical Applicator,false,2,6,11
+222,"Landscaping, Groundskeeping & Pest Control",Services & Operations,Landscape design,4,69,Landscape Design Professional,false,2,1,11
+223,"Landscaping, Groundskeeping & Pest Control",Services & Operations,Pest control,3,77,"Pest Control Technician, Pest Control Tech",false,2,7,11
+224,"Landscaping, Groundskeeping & Pest Control",Services & Operations,Fence install,3,78,"Fence Install Specialist, Fence Install Professional",false,2,8,11
+225,"Landscaping, Groundskeeping & Pest Control",Services & Operations,General labor: light lifting,1,12,"Team Member, Associate, Crew Member",true,2,12,11
+226,"Landscaping, Groundskeeping & Pest Control",Services & Operations,General labor: heavy lifting,1,13,"Team Member, Associate, Crew Member",false,2,13,11
+227,"Landscaping, Groundskeeping & Pest Control",Equipment Operation,Light & medium equipment: earthwork / construction,3,80,Light / Medium Equipment Operator,false,3,1,11
+228,"Landscaping, Groundskeeping & Pest Control",Equipment Operation,Light & medium equipment: warehouse / yard / port,3,81,Light / Medium Equipment Operator,false,3,2,11
+229,"Landscaping, Groundskeeping & Pest Control",Equipment Operation,Heavy equipment: earthwork / construction,4,82,Heavy Equipment Operator,false,3,3,11
+230,Real Estate & Property Management,Brokers & Real Estate Agents,Broker: real estate - residential,5,,Residential Real Estate Broker,false,2,1,12
+231,Real Estate & Property Management,Brokers & Real Estate Agents,Broker: real estate - commercial,5,,Commercial Real Estate Broker,false,2,2,12
+232,Real Estate & Property Management,Management,Escrow,5,83,"Escrow Manager, Escrow Operations Supervisor",false,1,1,12
+233,Real Estate & Property Management,Management,Property management: residential,5,,Residential Property Manager,false,1,2,12
+234,Real Estate & Property Management,Management,Property management: commercial,5,,Commercial Property Manager,false,1,3,12
+235,Real Estate & Property Management,Management,Maintenance: residential properties,5,84,Residential Building Maintenance Manager,false,1,4,12
+236,Real Estate & Property Management,Management,Maintenance: commercial properties / facilities,5,85,Commercial Building Maintenance Manager,false,1,5,12
+237,Real Estate & Property Management,Brokers & Real Estate Agents,Real estate agent: residential,3,20,"Residential Real Estate Agent, Real Estate Sales Professional",false,2,3,12
+238,Real Estate & Property Management,Brokers & Real Estate Agents,Real estate agent: commercial,4,21,"Commercial Real Estate Agent, Real Estate Sales Professional",false,2,4,12
+239,Real Estate & Property Management,Transaction & Appraisal Services,Escrow,3,44,"Escrow Administrator, Escrow Specialist",false,3,1,12
+240,Real Estate & Property Management,Transaction & Appraisal Services,Titles,3,,"Title Specialist, Title Professional",false,3,2,12
+241,Real Estate & Property Management,Transaction & Appraisal Services,Property appraisal: residential,3,45,"Residential Property Appraiser, Residential Property Appraisal Specialist, Residential Real Estate Appraiser",false,3,3,12
+242,Real Estate & Property Management,Transaction & Appraisal Services,Property appraisal: commercial,3,46,"Commercial Property Appraiser, Commercial Property Appraisal Specialist, Commercial Real Estate Appraiser",false,3,4,12
+243,Real Estate & Property Management,Maintenance & Inspection,Maintenance: residential properties,3,86,Residential Building Maintenance Technician,false,4,1,12
+244,Real Estate & Property Management,Maintenance & Inspection,Maintenance: commercial properties / facilities,3,87,Commercial Building Maintenance Technician,false,4,2,12
+245,Real Estate & Property Management,Maintenance & Inspection,General labor: light lifting,1,12,"Team Member, Associate, Crew Member",true,4,3,12
+246,Real Estate & Property Management,Maintenance & Inspection,General labor: heavy lifting,1,13,"Team Member, Associate, Crew Member",false,4,4,12
+247,Real Estate & Property Management,Maintenance & Inspection,Inspection: residential buildings,3,47,"Residential Building Inspector, Residential Building Inspection Specialist",false,4,5,12
+248,Real Estate & Property Management,Maintenance & Inspection,Inspection: commercial buildings,3,48,"Commercial Building Inspector, Commercial Building Inspection Specialist",false,4,6,12
+249,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Hotels / lodging,5,,Hotel Manager,false,1,1,13
+250,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Events operations,5,,"Event Operations Manager, Events Manager, Event Planning & Coordination Manager",false,1,2,13
+251,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Recreation facilities / centers (indoor & outdoor),5,,Operations Manager,false,1,3,13
+252,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Amusement parks,5,,Amusement Park Operations Manager,false,1,4,13
+253,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Venues,5,,Venue Operations Manager,false,1,5,13
+254,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Stage / performance: production,5,,"Production Manager, Production Director",false,1,6,13
+255,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Stage / performance: audio,4,,"Audio Production Manager, Sound Manager, Audio Supervisor",false,1,7,13
+256,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Stage / performance: lighting,4,,Lighting Production Manager,false,1,8,13
+257,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Video: production,5,30,Video Production Manager,false,1,9,13
+258,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Audio: production,5,31,"Audio Production Manager, Audio Engineer Lead",false,1,10,13
+259,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Lifeguard,5,,Lifeguard Supervisor,false,1,11,13
+260,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Museums & cultural centers,5,,Curator,false,1,12,13
+261,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Casinos,5,,Casino Operations Manager,false,1,13,13
+262,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Golf courses,5,,Golf Course Manager,false,1,14,13
+263,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Caddy,5,,Caddy Manager,false,1,15,13
+264,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Janitorial / custodial,5,56,"Janitorial Services Manager, Custodial Services Manager",false,1,16,13
+265,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Housekeeping services,5,55,"Housekeeper, Housekeeping",false,1,17,13
+266,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Valet / parking,4,2,"Parking Manager, Parking Management, Parking Lead, Parking Supervisor",false,1,18,13
+267,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Security,5,51,"Security Manager, Security Lead",false,1,19,13
+268,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Maintenance: residential properties,5,84,Residential Building Maintenance Manager,false,1,20,13
+269,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Maintenance: commercial properties / facilities,5,85,Commercial Building Maintenance Manager,false,1,21,13
+270,"Lodging, Events, Recreation, Entertainment & Attractions",Management,"Maintenance: industrial equipment, machinery & systems",5,88,"Industrial Maintenance Manager, Maintenance Manager",false,1,22,13
+271,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Maintenance & service: commercial pools,5,57,Commercial Pool Maintenance & Service Manager,false,1,23,13
+272,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Landscaping & groundskeeping: crew & grounds management,4,70,Landscaping Manager,false,1,24,13
+273,"Lodging, Events, Recreation, Entertainment & Attractions",Management,Landscaping & groundskeeping: golf courses,5,71,Golf Course Groundskeeping Manager,false,1,25,13
+274,"Lodging, Events, Recreation, Entertainment & Attractions",Event & Guest Services,Event planning & coordination,3,,Events Planner & Coordinator,false,2,1,13
+275,"Lodging, Events, Recreation, Entertainment & Attractions",Event & Guest Services,Customer service,3,6,"Customer Service Associate, Customer Service, Associate",false,2,2,13
+276,"Lodging, Events, Recreation, Entertainment & Attractions",Event & Guest Services,Cashier,2,8,"Cashier, Team Member, Associate",false,2,3,13
+277,"Lodging, Events, Recreation, Entertainment & Attractions",Event & Guest Services,Valet / parking,1,15,"Parking Attendant, Parking Associate, Parking Valet, Car Attendant",false,2,4,13
+278,"Lodging, Events, Recreation, Entertainment & Attractions",Event & Guest Services,Lifeguard,3,,Lifeguard,false,2,5,13
+279,"Lodging, Events, Recreation, Entertainment & Attractions",Event & Guest Services,Caddy,3,,Caddy,false,2,6,13
+280,"Lodging, Events, Recreation, Entertainment & Attractions",Event & Guest Services,Tour guide,3,,"Tour guide, Culture guide",false,2,7,13
+281,"Lodging, Events, Recreation, Entertainment & Attractions",Event & Guest Services,Casino table games,3,,Casino Games Professional,false,2,8,13
+282,"Lodging, Events, Recreation, Entertainment & Attractions","Stage, Audio, Video & Photo",Stage / performance: audio,3,,Audio Technician,false,3,1,13
+283,"Lodging, Events, Recreation, Entertainment & Attractions","Stage, Audio, Video & Photo",Stage / performance: lighting,3,,Lighting Technician,false,3,2,13
+284,"Lodging, Events, Recreation, Entertainment & Attractions","Stage, Audio, Video & Photo",Carpentry: stage / theater,4,89,Stage Carpenter,false,3,3,13
+285,"Lodging, Events, Recreation, Entertainment & Attractions","Stage, Audio, Video & Photo",Audio: recording,3,39,Audio Recording Professional,false,3,4,13
+286,"Lodging, Events, Recreation, Entertainment & Attractions","Stage, Audio, Video & Photo",Video: recording,3,37,Video Recording Professional,false,3,5,13
+287,"Lodging, Events, Recreation, Entertainment & Attractions","Stage, Audio, Video & Photo",Photography,3,36,Photographer,false,3,6,13
+288,"Lodging, Events, Recreation, Entertainment & Attractions","Stage, Audio, Video & Photo",Drones: arial,3,38,Drone Operator,false,3,7,13
+289,"Lodging, Events, Recreation, Entertainment & Attractions","Stage, Audio, Video & Photo",General labor: light lifting,1,12,"Team Member, Associate, Crew Member",false,3,8,13
+290,"Lodging, Events, Recreation, Entertainment & Attractions","Stage, Audio, Video & Photo",General labor: heavy lifting,1,13,"Team Member, Associate, Crew Member",false,3,9,13
+291,"Lodging, Events, Recreation, Entertainment & Attractions","Models, Performers & Influencers / Brand Ambassadors",Model,3,34,Model,false,4,1,13
+292,"Lodging, Events, Recreation, Entertainment & Attractions","Models, Performers & Influencers / Brand Ambassadors",Performer,3,35,Performer,false,4,2,13
+293,"Lodging, Events, Recreation, Entertainment & Attractions","Models, Performers & Influencers / Brand Ambassadors",Influencer: social media platforms,3,32,Influencer,false,4,3,13
+294,"Lodging, Events, Recreation, Entertainment & Attractions","Models, Performers & Influencers / Brand Ambassadors",Influencer: blogs & newsletters,3,33,Influencer,false,4,4,13
+295,"Lodging, Events, Recreation, Entertainment & Attractions",Security Operations,Security: unarmed,3,52,"Unarmed Security Guard, Security, Security Guard",false,5,1,13
+296,"Lodging, Events, Recreation, Entertainment & Attractions",Security Operations,Security: armed,4,53,"Armed Security Guard, Armed Security",false,5,2,13
+297,"Lodging, Events, Recreation, Entertainment & Attractions","Maintenance, Janitorial & Cleaning",Maintenance: residential properties,3,86,Residential Building Maintenance Technician,false,6,1,13
+298,"Lodging, Events, Recreation, Entertainment & Attractions","Maintenance, Janitorial & Cleaning",Maintenance: commercial properties / facilities,3,87,Commercial Building Maintenance Technician,false,6,2,13
+299,"Lodging, Events, Recreation, Entertainment & Attractions","Maintenance, Janitorial & Cleaning","Maintenance: industrial equipment, machinery & systems",3,90,"Industrial Maintenance Technician, Industrial Maintenance Specialist, Industrial Maintenance Professional",false,6,3,13
+300,"Lodging, Events, Recreation, Entertainment & Attractions","Maintenance, Janitorial & Cleaning",Maintenance & service: residential pools,3,59,"Residential Pool Maintenance & Service Specialist, Residential Pool Maintenance & Service Professional",false,6,4,13
+301,"Lodging, Events, Recreation, Entertainment & Attractions","Maintenance, Janitorial & Cleaning",Maintenance & service: commercial pools,4,60,"Commercial Pool Maintenance & Service Specialist, Commercial Pool Maintenance & Service Professional",false,6,5,13
+302,"Lodging, Events, Recreation, Entertainment & Attractions","Maintenance, Janitorial & Cleaning",Housekeeping services,2,58,"Housekeeping Service, Cleaning Service, Cleaning Professional, Housekeeping Professional",false,6,6,13
+303,"Lodging, Events, Recreation, Entertainment & Attractions","Maintenance, Janitorial & Cleaning",Janitorial / custodial,2,14,"Steward, Custodian, Janitorial Services Associate",false,6,7,13
+304,"Lodging, Events, Recreation, Entertainment & Attractions",General Labor,General labor: light lifting,1,12,"Team Member, Associate, Crew Member",false,7,1,13
+305,"Lodging, Events, Recreation, Entertainment & Attractions",General Labor,General labor: heavy lifting,1,13,"Team Member, Associate, Crew Member",false,7,2,13
+306,Driving & Equipment Operation,Standard Driver's License,Valet / parking,1,15,"Parking Attendant, Parking Associate, Parking Valet, Car Attendant",false,1,1,14
+307,Driving & Equipment Operation,Standard Driver's License,Transporting people,2,,Driver,false,1,2,14
+308,Driving & Equipment Operation,Standard Driver's License,Transporting / delivering items,2,91,Delivery Driver,false,1,3,14
+309,Driving & Equipment Operation,Standard Driver's License,Snow plowing,3,,Snow Plow Driver,false,1,4,14
+310,Driving & Equipment Operation,Commercial Driver's Licenses,Class A,4,92,Driver: Class A License,false,2,1,14
+311,Driving & Equipment Operation,Commercial Driver's Licenses,Class B,4,93,Driver: Class B License,false,2,2,14
+312,Driving & Equipment Operation,Commercial Driver's Licenses,Class C,4,94,Driver: Class C License,false,2,3,14
+313,Driving & Equipment Operation,Commercial Driver's Licenses,Endorsement H: hazardous materials,4,95,Driver: Endorsement H,false,2,4,14
+314,Driving & Equipment Operation,Commercial Driver's Licenses,Endorsement N: tanker vehicles,4,96,Driver: Endorsement N,false,2,5,14
+315,Driving & Equipment Operation,Commercial Driver's Licenses,Endorsement P: passenger,4,97,Driver: Endorsement P,false,2,6,14
+316,Driving & Equipment Operation,Commercial Driver's Licenses,Endorsement S: school bus,4,98,Driver: Endorsement S,false,2,7,14
+317,Driving & Equipment Operation,Commercial Driver's Licenses,Endorsement T: double / triple trailers,4,99,Driver: Endorsement T,false,2,8,14
+318,Driving & Equipment Operation,Equipment Operation,Drones: arial,3,38,Drone Operator,false,3,1,14
+319,Driving & Equipment Operation,Equipment Operation,Heavy equipment: GPS / machine controls,3,100,Machine Control Specialist,false,3,2,14
+320,Driving & Equipment Operation,Equipment Operation,Light & medium equipment: earthwork / construction,3,80,Light / Medium Equipment Operator,false,3,3,14
+321,Driving & Equipment Operation,Equipment Operation,Light & medium equipment: warehouse / yard / port,3,81,Light / Medium Equipment Operator,false,3,4,14
+322,Driving & Equipment Operation,Equipment Operation,Concrete pumping,3,101,Concrete Pump Operator,false,3,9,14
+323,Driving & Equipment Operation,Equipment Operation,Heavy equipment: earthwork / construction,4,82,Heavy Equipment Operator,false,3,5,14
+324,Driving & Equipment Operation,Equipment Operation,Heavy equipment: warehouse / yard / port,4,102,Heavy Equipment Operator,false,3,6,14
+325,Driving & Equipment Operation,Equipment Operation,Heavy equipment: cranes,4,103,Crane Operator,false,3,7,14
+326,Driving & Equipment Operation,Equipment Operation,Heavy equipment: paving & roadway,4,104,Paving & Roadway Heavy Equipment Operator,false,3,8,14
+327,Driving & Equipment Operation,Equipment Operation,Drilling: directional,3,105,Directional Drill Operator,false,3,10,14
+328,Driving & Equipment Operation,Equipment Operation,Drilling: well,3,106,Well Driller,false,3,11,14
+329,Driving & Equipment Operation,Equipment Operation,Drilling: foundational,3,107,Foundation Driller,false,3,12,14
+330,"Logistics, Warehousing & Distribution",Management,Warehouse / yard / port,5,,"Operations Manager, Director of Operations",false,1,1,15
+331,"Logistics, Warehousing & Distribution",Management,Logistics,5,,"Logistics Manager, Logistics Lead",false,1,2,15
+332,"Logistics, Warehousing & Distribution",Management,Receiving,5,,"Receiving Manager, Receiving Lead",false,1,3,15
+333,"Logistics, Warehousing & Distribution",Management,Shipping,5,,"Shipping Manager, Shipping Lead",false,1,4,15
+334,"Logistics, Warehousing & Distribution",Management,Inventory,5,1,"Inventory Manager, Inventory Operations Lead",false,1,5,15
+335,"Logistics, Warehousing & Distribution",Management,Transportation,5,,"Transportation Manager, Transit Operations Manager",false,1,6,15
+336,"Logistics, Warehousing & Distribution",Management,Maintenance & service: automotive,5,109,"Automotive Service Manager, Automotive Maintenance Manager",false,1,9,15
+337,"Logistics, Warehousing & Distribution",Management,Maintenance & service: Heavy engine & equipment,5,110,"Heavy Engine & Equipment Service Manager, Heavy Engine & Equipment Maintenance Manager",false,1,10,15
+338,"Logistics, Warehousing & Distribution",Management,Fleet,5,111,Fleet Manager,false,1,8,15
+339,"Logistics, Warehousing & Distribution",Operations,General labor: light lifting,1,12,"Team Member, Associate, Crew Member",false,2,1,15
+340,"Logistics, Warehousing & Distribution",Operations,General labor: heavy lifting,1,13,"Team Member, Associate, Crew Member",false,2,2,15
+341,"Logistics, Warehousing & Distribution",Operations,Administrative / clerical,3,42,"Administrative Assistant, Office Administrator, Administrative Support Specialist",false,2,3,15
+342,"Logistics, Warehousing & Distribution",Operations,Logistics,3,,"Logistics Specialist, Logistical Operations",false,2,5,15
+343,"Logistics, Warehousing & Distribution",Operations,Receiving,3,10,"Receiver, Receiving Associate",false,2,6,15
+344,"Logistics, Warehousing & Distribution",Operations,Shipping,3,,"Shipping Specialist, Shipping Associate",false,2,7,15
+345,"Logistics, Warehousing & Distribution",Operations,Inventory,3,11,"Inventory Specialist, Inventory Associate",false,2,8,15
+346,"Logistics, Warehousing & Distribution",Operations,Routing,3,,"Routing Specialist, Routing Operations",false,2,9,15
+347,"Logistics, Warehousing & Distribution",Operations,Dispatch,3,54,Dispatch,false,2,10,15
+348,"Logistics, Warehousing & Distribution",Drivers: Standard Driver's License,Transporting / delivering items,2,91,Delivery Driver,false,3,1,15
+349,"Logistics, Warehousing & Distribution",Drivers: Commercial Licenses & Endorsements,Class A,4,92,Driver: Class A License,false,4,1,15
+350,"Logistics, Warehousing & Distribution",Drivers: Commercial Licenses & Endorsements,Class B,4,93,Driver: Class B License,false,4,2,15
+351,"Logistics, Warehousing & Distribution",Drivers: Commercial Licenses & Endorsements,Class C,4,94,Driver: Class C License,false,4,3,15
+352,"Logistics, Warehousing & Distribution",Drivers: Commercial Licenses & Endorsements,Endorsement H: hazardous materials,4,95,Driver: Endorsement H,false,4,4,15
+353,"Logistics, Warehousing & Distribution",Drivers: Commercial Licenses & Endorsements,Endorsement N: tanker vehicles,4,96,Driver: Endorsement N,false,4,5,15
+354,"Logistics, Warehousing & Distribution",Drivers: Commercial Licenses & Endorsements,Endorsement P: passenger,4,97,Driver: Endorsement P,false,4,6,15
+355,"Logistics, Warehousing & Distribution",Drivers: Commercial Licenses & Endorsements,Endorsement S: school bus,4,98,Driver: Endorsement S,false,4,7,15
+356,"Logistics, Warehousing & Distribution",Drivers: Commercial Licenses & Endorsements,Endorsement T: double / triple trailers,4,99,Driver: Endorsement T,false,4,8,15
+357,"Logistics, Warehousing & Distribution",Equipment Operation,Light & medium equipment: warehouse / yard / port,3,81,Light / Medium Equipment Operator,false,5,1,15
+358,"Logistics, Warehousing & Distribution",Equipment Operation,Heavy equipment: warehouse / yard / port,4,102,Heavy Equipment Operator,false,5,2,15
+359,"Logistics, Warehousing & Distribution",Equipment Operation,Heavy equipment: cranes,4,103,Crane Operator,false,5,3,15
+360,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",Maintenance: commercial properties / facilities,3,87,Commercial Building Maintenance Technician,false,6,1,15
+361,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair","Maintenance: industrial equipment, machinery & systems",3,90,"Industrial Maintenance Technician, Industrial Maintenance Specialist, Industrial Maintenance Professional",false,6,2,15
+362,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",HVAC maintenance: commercial,4,112,"Commercial HVAC Technician, Commercial HVAC Maintenance Professional",false,6,3,15
+363,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",Refrigeration maintenance: commercial,4,113,"Commercial Refrigeration Technician, Commercial Refrigeration Professional",false,6,4,15
+364,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",HVAC: commercial boilers,4,114,"Commercial Boiler Technician, Commercial Boiler Maintenance Professional",false,6,5,15
+365,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",HVAC: commercial chillers,4,115,"Commercial Chiller Technician, Commercial Chiller Maintenance Professional",false,6,6,15
+366,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",Millwright,4,116,Millwright,false,6,7,15
+367,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",Mechanic: generators,4,117,"Generator Technician, Generator Mechanic",false,6,8,15
+368,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",Mechanic: small equipment and engines,3,236,Small Equipment & Engine Mechanic,false,6,9,15
+369,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",Mechanic: heavy equipment,4,118,Heavy Equipment Mechanic,false,6,10,15
+370,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",Mechanic: automotive,4,119,Auto Mechanic,false,6,11,15
+371,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",Mechanic: electric vehicles,4,220,"EV Mechanic, EV Technician",false,6,12,15
+372,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",Mechanic: light duty diesel,4,221,Light Duty Diesel Mechanic,false,6,13,15
+373,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair","Mechanic: trucks, busses & heavy duty diesel",4,222,Heavy Duty Diesel Mechanic,false,6,14,15
+374,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",Mechanic: trailers,3,223,Trailer Mechanic,false,6,15,15
+375,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",Mechanic: small boats,3,224,"Small Boat Mechanic, Marine Technician",false,6,16,15
+376,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",Mechanic: large boats,4,225,Large Vessel Mechanic,false,6,17,15
+377,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",Mechanic: helicopters,4,226,"Helicopter Mechanic, Helicopter Maintenance Technician",false,6,18,15
+378,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",Mechanic: light aircraft,4,227,"Aircraft Mechanic, Aircraft Maintenance Technician",false,6,19,15
+379,"Logistics, Warehousing & Distribution","Maintenance, Install & Repair",Mechanic: large aircraft,4,228,"Aircraft Mechanic, Aircraft Maintenance Technician",false,6,20,15
+380,"Maintenance, Install & Repair: Vehicles, Engines & Equipment",Management,Maintenance & service: autobody,5,229,Autobody Service Manager,false,1,1,17
+381,"Maintenance, Install & Repair: Vehicles, Engines & Equipment",Management,Maintenance & service: automotive,5,109,"Automotive Service Manager, Automotive Maintenance Manager",false,1,2,17
+382,"Maintenance, Install & Repair: Vehicles, Engines & Equipment",Management,Maintenance & service: Heavy engine & equipment,5,110,"Heavy Engine & Equipment Service Manager, Heavy Engine & Equipment Maintenance Manager",false,1,3,17
+383,"Maintenance, Install & Repair: Vehicles, Engines & Equipment",Management,Fleet,5,111,Fleet Manager,false,1,4,17
+384,"Maintenance, Install & Repair: Vehicles, Engines & Equipment",Sales & Customer Service,Sales: consumer / retail,3,3,"Sales Associate, Salesperson, Sales, Sales Representative",false,2,1,17
+385,"Maintenance, Install & Repair: Vehicles, Engines & Equipment",Sales & Customer Service,Sales: commercial / enterprise,4,4,"Sales Associate, Salesperson, Sales, Sales Representative",false,2,2,17
+386,"Maintenance, Install & Repair: Vehicles, Engines & Equipment",Sales & Customer Service,Customer service,3,6,"Customer Service Associate, Customer Service, Associate",false,2,3,17
+387,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Audio / entertainment systems install: vehicles,3,,Vehicle Audio / Entertainment Specialist,false,3,1,17
+388,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Window tint install: vehicles,3,,Window Tint Specialist,false,3,2,17
+389,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",PPF install: vehicles,3,,PPF Specialist,false,3,3,17
+390,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Vinyl install: vehicles,3,,Vynl Specialist,false,3,4,17
+391,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Estimating: autobody,3,230,Audobody Estimator,false,3,5,17
+392,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Glass / windows: autobody,3,,Autobody Glass Specialist,false,3,6,17
+393,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Repair & fabrication: autobody,3,231,Autobody Repair Specialist,false,3,7,17
+394,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Painting: autobody,3,232,Autobody Painting Specialist,false,3,8,17
+395,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Painting / coatings: industrial,3,233,Industrial Painter,false,3,9,17
+396,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Mechanic: automotive,4,119,Auto Mechanic,false,3,10,17
+397,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Mechanic: motorsport / motorcycle,4,,Motorcycle Mechanic,false,3,11,17
+398,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Mechanic: electric vehicles,4,220,"EV Mechanic, EV Technician",false,3,12,17
+399,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Mechanic: light duty diesel,4,221,Light Duty Diesel Mechanic,false,3,13,17
+400,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair","Mechanic: trucks, busses & heavy duty diesel",4,222,Heavy Duty Diesel Mechanic,false,3,14,17
+401,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Mechanic: trailers,3,223,Trailer Mechanic,false,3,15,17
+402,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Mechanic: small boats,3,224,"Small Boat Mechanic, Marine Technician",false,3,16,17
+403,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Mechanic: large boats,4,225,Large Vessel Mechanic,false,3,17,17
+404,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Mechanic: helicopters,4,226,"Helicopter Mechanic, Helicopter Maintenance Technician",false,3,18,17
+405,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Mechanic: light aircraft,4,227,"Aircraft Mechanic, Aircraft Maintenance Technician",false,3,19,17
+406,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Mechanic: large aircraft,4,228,"Aircraft Mechanic, Aircraft Maintenance Technician",false,3,20,17
+407,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Electric vehicle charging stations: install,4,234,Electric Vehicle Charging Station Installer,false,3,21,17
+408,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Vehicle maintenance, install & repair",Electric vehicle charging stations: maintenance,4,235,Electric Vehicle Charging Station Maintenance Specialist,false,3,22,17
+409,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics",Mechanic: small equipment and engines,3,236,Small Equipment & Engine Mechanic,false,4,1,17
+410,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics",Mechanic: automotive,4,119,Auto Mechanic,false,4,2,17
+411,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics",Mechanic: generators,4,117,"Generator Technician, Generator Mechanic",false,4,3,17
+412,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics","Maintenance: industrial equipment, machinery & systems",3,90,"Industrial Maintenance Technician, Industrial Maintenance Specialist, Industrial Maintenance Professional",false,4,4,17
+413,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics",Millwright,4,116,Millwright,false,4,5,17
+414,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics",Pipefitting,4,237,Pipefitter,false,4,6,17
+415,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics",HVAC maintenance: residential,3,238,"Residential HVAC Technician, Residential HVAC Professional",false,4,7,17
+416,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics",HVAC maintenance: commercial,4,112,"Commercial HVAC Technician, Commercial HVAC Professional",false,4,8,17
+417,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics",Refrigeration maintenance: commercial,4,113,"Commercial Refrigeration Technician, Commercial Refrigeration Professional",false,4,9,17
+418,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics",HVAC: commercial boilers,4,114,"Commercial Boiler Technician, Commercial Boiler Professional",false,4,10,17
+419,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics",HVAC: commercial chillers,4,115,"Commercial Chiller Technician, Commercial Chiller Professional",false,4,11,17
+420,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics",Appliance maintenance & repair: residential,3,239,Appliance Repair Specialist,false,4,12,17
+421,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics",Appliance maintenance & repair: commercial,3,240,Appliance Repair Specialist,false,4,13,17
+422,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics",Appliance maintenance & repair: espresso machines,3,241,Esspresso Machine Repair Specialist,false,4,14,17
+423,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics",Medical equipment maintenance & repair,3,242,Medical Equipment Repair Specialist,false,4,15,17
+424,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Equipment, Appliances & Electronics","Computer, smartphone & consumer electronics repair",3,243,Consumer Electronics Repair Specialist,false,4,16,17
+425,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Welding, Torch Cutting, Soldering & Brazing",Soldering,3,244,Soldering Specialist,false,5,1,17
+426,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Welding, Torch Cutting, Soldering & Brazing",Brazing,3,245,Brazing Specialist,false,5,2,17
+427,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Welding, Torch Cutting, Soldering & Brazing",Cutting / OFC-A,2,246,Cutting / OFC-A Professional,false,5,3,17
+428,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Welding, Torch Cutting, Soldering & Brazing",Exothermic,3,247,Exothermic Welding Professional,false,5,4,17
+429,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Welding, Torch Cutting, Soldering & Brazing",MIG / GMAW,3,248,MIG / GMAW Welding Professional,false,5,5,17
+430,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Welding, Torch Cutting, Soldering & Brazing",MAG / GMAW,3,249,MAG / GMAW Welding Professional,false,5,6,17
+431,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Welding, Torch Cutting, Soldering & Brazing",Stick / SMAW,3,250,Stick / SMAW Welding Professional,false,5,7,17
+432,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Welding, Torch Cutting, Soldering & Brazing",TIG / GTAW,3,251,TIG / GTAW Welding Professional,false,5,8,17
+433,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Welding, Torch Cutting, Soldering & Brazing",Flux-cored / FCAW,3,252,Flux-cored / FCAW,false,5,9,17
+434,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Welding, Torch Cutting, Soldering & Brazing",PAW,3,253,PAW Welding Professional,false,5,10,17
+435,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Welding, Torch Cutting, Soldering & Brazing",Atomic hydrogen / AHW,3,254,Atomic hydrogen / AHW Welding Professional,false,5,11,17
+436,"Maintenance, Install & Repair: Vehicles, Engines & Equipment","Welding, Torch Cutting, Soldering & Brazing",Underwater,4,255,Underwater Welding Professional,false,5,12,17
+437,"Craft Services, Repair & Restoration: Consumer Goods","Equipment, Appliances & Electronics","Computer, smartphone & consumer electronics repair",3,243,Consumer Electronics Repair Specialist,false,6,1,16
+438,"Craft Services, Repair & Restoration: Consumer Goods","Equipment, Appliances & Electronics",Appliance maintenance & repair: residential,3,239,Appliance Repair Specialist,false,6,2,16
+439,"Craft Services, Repair & Restoration: Consumer Goods","Equipment, Appliances & Electronics",Appliance maintenance & repair: commercial,3,240,Appliance Repair Specialist,false,6,3,16
+440,"Craft Services, Repair & Restoration: Consumer Goods","Equipment, Appliances & Electronics",Appliance maintenance & repair: espresso machines,3,241,Esspresso Machine Repair Specialist,false,6,4,16
+441,"Craft Services, Repair & Restoration: Consumer Goods","Equipment, Appliances & Electronics",Medical equipment maintenance & repair,3,242,Medical Equipment Repair Specialist,false,6,5,16
+442,"Craft Services, Repair & Restoration: Consumer Goods","Furniture, Picture Framing, Knife Sharpening & Florists",Upholstery,3,,,false,7,1,16
+443,"Craft Services, Repair & Restoration: Consumer Goods","Furniture, Picture Framing, Knife Sharpening & Florists",Woodworking,4,256,Woodworker,false,7,2,16
+444,"Craft Services, Repair & Restoration: Consumer Goods","Furniture, Picture Framing, Knife Sharpening & Florists",Picture framing,3,,Picture Framer,false,7,3,16
+445,"Craft Services, Repair & Restoration: Consumer Goods","Furniture, Picture Framing, Knife Sharpening & Florists",Knife sharpening,3,,Knife Sharpening Professional,false,7,4,16
+446,"Craft Services, Repair & Restoration: Consumer Goods","Furniture, Picture Framing, Knife Sharpening & Florists",Florist,3,,Florist,false,7,5,16
+447,"Craft Services, Repair & Restoration: Consumer Goods",Jewelry,Watch repair,4,,Watch Repair Professional,false,8,1,16
+448,"Craft Services, Repair & Restoration: Consumer Goods",Jewelry,Jeweler,4,,Jeweler,false,8,2,16
+449,"Craft Services, Repair & Restoration: Consumer Goods",Jewelry,Soldering,3,244,Soldering Specialist,false,8,3,16
+450,"Craft Services, Repair & Restoration: Consumer Goods",Clothing & Shoes,Tailor / alterations,3,,Garment Specialist,false,9,1,16
+451,"Craft Services, Repair & Restoration: Consumer Goods",Clothing & Shoes,Shoe repair,3,,Shoe Repair Specialist,false,9,2,16
+452,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,General: residential,5,,Construction Site Manager,false,1,1,18
+453,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,General: commercial,5,,Construction Site Manager,false,1,2,18
+454,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Concrete: commercial,5,,Concrete Construction Site Manager,false,1,3,18
+455,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Steel: commercial,5,,Steel Construction Site Manager,false,1,4,18
+456,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Electrical: commercial,5,,Electrical Construction Site Manager,false,1,5,18
+457,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,HVAC: commercial,5,,HVAC Construction Site Manager,false,1,6,18
+458,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Plumbing: commercial,5,,Plumbing Construction Site Manager,false,1,7,18
+459,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Roofing: commercial,5,,Roofing Construction Site Manager,false,1,8,18
+460,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Painting: commercial,5,,Painting Construction Site Manager,false,1,9,18
+461,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Flooring: commercial,5,,Flooring Construction Site Manager,false,1,10,18
+462,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Drywall: commercial,5,,Drywall Construction Site Manager,false,1,11,18
+463,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Insulation: commercial,5,,Insulation Construction Site Manager,false,1,12,18
+464,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Doors & windows: commercial,5,,Doors & Windows Construction Site Manager,false,1,13,18
+465,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Glass: commercial,5,,Glass Construction Site Manager,false,1,14,18
+466,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Masonry: commercial,5,,Masonry Construction Site Manager,false,1,15,18
+467,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Audio / visual: commercial,5,,Audio / Visual Construction Site Manager,false,1,16,18
+468,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Scaffolding: commercial,5,,Scaffolding Construction Site Manager,false,1,17,18
+469,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Demolition: commercial,5,,Demolition Construction Site Manager,false,1,18,18
+470,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Landscaping,5,63,Landscaping Construction Site Manager,false,1,19,18
+471,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Pools & water features,5,64,Pool Construction Site Manager,false,1,20,18
+472,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Roadways & heavy civil,5,,Roadways & Heavy Civil Construction Site Manager,false,1,21,18
+473,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Electricity: utilities,5,,Electricity Utilities Construction Site Manager,false,1,22,18
+474,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Solar: utilities,5,,Solar Utilities Construction Site Manager,false,1,23,18
+475,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Wind: utilities,5,,Wind Utilities Construction Site Manager,false,1,24,18
+476,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Gas: utilities,5,,Gas Utilities Construction Site Manager,false,1,25,18
+477,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Water: utilities,5,,Water Utilities Construction Site Manager,false,1,26,18
+478,"Construction, Install & Maintenance: Infrastructure & Property",Construction Site Management,Telecom: utilities,5,,Telecom Utilities Construction Site Manager,false,1,27,18
+479,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,General: residential,5,,Construction Project Manager,false,2,1,18
+480,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,General: commercial,5,,Construction Project Manager,false,2,2,18
+481,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Concrete: commercial,5,,Concrete Project Manager,false,2,3,18
+482,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Steel: commercial,5,,Steel Project Manager,false,2,4,18
+483,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Electrical: commercial,5,,Electrical Project Manager,false,2,5,18
+484,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,HVAC: commercial,5,,HVAC Project Manager,false,2,6,18
+485,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Plumbing: commercial,5,,Plumbing Project Manager,false,2,7,18
+486,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Roofing: commercial,5,,Roofing Project Manager,false,2,8,18
+487,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Painting: commercial,5,,Painting Project Manager,false,2,9,18
+488,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Flooring: commercial,5,,Flooring Project Manager,false,2,10,18
+489,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Drywall: commercial,5,,Drywall Project Manager,false,2,11,18
+490,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Insulation: commercial,5,,Insulation Project Manager,false,2,12,18
+491,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Doors & windows: commercial,5,,Doors & Windows Project Manager,false,2,13,18
+492,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Glass: commercial,5,,Glass Project Manager,false,2,14,18
+493,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Masonry: commercial,5,,Masonry Project Manager,false,2,15,18
+494,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Audio / visual: commercial,5,,Audio / Visual Project Manager,false,2,16,18
+495,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Scaffolding: commercial,5,,Scaffolding Project Manager,false,2,17,18
+496,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Landscaping,5,65,Landscaping Project Manager,false,2,18,18
+497,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Pools & water features,5,66,Pool Construction Project Manager,false,2,19,18
+498,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Roadways & heavy civil,5,,Roadways & Heavy Civil Project Manager,false,2,20,18
+499,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Electricity: utilities,5,,Electricity Utilities Project Manager,false,2,21,18
+500,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Solar: utilities,5,,Solar Utilities Project Manager,false,2,22,18
+501,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Wind: utilities,5,,Wind Utilities Project Manager,false,2,23,18
+502,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Gas: utilities,5,,Gas Utilities Project Manager,false,2,24,18
+503,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Water: utilities,5,,Water Utilities Project Manager,false,2,25,18
+504,"Construction, Install & Maintenance: Infrastructure & Property",Construction Project Management,Telecom: utilities,5,,Telecom Utilities Project Manager,false,2,26,18
+505,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,General: residential,4,,Construction Estimator,false,3,1,18
+506,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,General: commercial,4,,Construction Estimator,false,3,2,18
+507,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Concrete: commercial,4,,Concrete Estimator,false,3,3,18
+508,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Steel: commercial,4,,Steel Estimator,false,3,4,18
+509,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Electrical: commercial,4,,Electrical Estimator,false,3,5,18
+510,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,HVAC: commercial,4,,HVAC Estimator,false,3,6,18
+511,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Plumbing: commercial,4,,Plumbing Estimator,false,3,7,18
+512,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Roofing: commercial,4,,Roofing Estimator,false,3,8,18
+513,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Painting: commercial,4,,Painting Estimator,false,3,9,18
+514,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Flooring: commercial,4,,Flooring Estimator,false,3,10,18
+515,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Drywall: commercial,4,,Drywall Estimator,false,3,11,18
+516,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Insulation: commercial,4,,Insulation Estimator,false,3,12,18
+517,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Doors & windows: commercial,4,,Doors & Windows Estimator,false,3,13,18
+518,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Glass: commercial,4,,Glass Estimator,false,3,14,18
+519,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Audio / visual: commercial,4,,Audio / Visual Estimator,false,3,15,18
+520,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Landscaping,4,67,Landscaping Estimator,false,3,16,18
+521,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Pools & water features,4,68,Pool Estimator,false,3,17,18
+522,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Scaffolding,4,,Scaffolding Estimator,false,3,18,18
+523,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Roadways & heavy civil,4,,Roadways & Heavy Civil Estimator,false,3,19,18
+524,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Electricity: utilities,4,,Electricity Utilities Estimator,false,3,20,18
+525,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Solar: utilities,4,,Solar Utilities Estimator,false,3,21,18
+526,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Wind: utilities,4,,Wind Utilities Estimator,false,3,22,18
+527,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Gas: utilities,4,,Gas Utilities Estimator,false,3,23,18
+528,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Water: utilities,4,,Water Utilities Estimator,false,3,24,18
+529,"Construction, Install & Maintenance: Infrastructure & Property",Construction Estimating,Telecom: utilities,4,,Telecom Utilities Estimator,false,3,25,18
+530,"Construction, Install & Maintenance: Infrastructure & Property","General Maintenance, Labor & Demolition",General labor: heavy lifting,1,13,"Team Member, Associate, Crew Member",false,4,1,18
+531,"Construction, Install & Maintenance: Infrastructure & Property","General Maintenance, Labor & Demolition",Maintenance: roadways & paving,3,,Roadway Maintenance,false,4,2,18
+532,"Construction, Install & Maintenance: Infrastructure & Property","General Maintenance, Labor & Demolition",Maintenance: residential properties,3,86,Residential Building Maintenance Technician,false,4,3,18
+533,"Construction, Install & Maintenance: Infrastructure & Property","General Maintenance, Labor & Demolition",Maintenance: commercial properties / facilities,3,87,Commercial Building Maintenance Technician,false,4,4,18
+534,"Construction, Install & Maintenance: Infrastructure & Property","General Maintenance, Labor & Demolition","Maintenance: industrial equipment, machinery & systems",3,90,"Industrial Maintenance Technician, Industrial Maintenance Specialist, Industrial Maintenance Professional",false,4,5,18
+535,"Construction, Install & Maintenance: Infrastructure & Property","General Maintenance, Labor & Demolition",Millwright,4,116,Millwright,false,4,6,18
+536,"Construction, Install & Maintenance: Infrastructure & Property","General Maintenance, Labor & Demolition",Demolition,2,,Demolition laborer,false,4,7,18
+537,"Construction, Install & Maintenance: Infrastructure & Property","Welding, Torch Cutting, Soldering & Brazing",Soldering,3,244,Soldering Specialist,false,5,1,18
+538,"Construction, Install & Maintenance: Infrastructure & Property","Welding, Torch Cutting, Soldering & Brazing",Brazing,3,245,Brazing Specialist,false,5,2,18
+539,"Construction, Install & Maintenance: Infrastructure & Property","Welding, Torch Cutting, Soldering & Brazing",Cutting / OFC-A,2,246,Cutting / OFC-A Professional,false,5,3,18
+540,"Construction, Install & Maintenance: Infrastructure & Property","Welding, Torch Cutting, Soldering & Brazing",Exothermic,3,247,Exothermic Welding Professional,false,5,4,18
+541,"Construction, Install & Maintenance: Infrastructure & Property","Welding, Torch Cutting, Soldering & Brazing",MIG / GMAW,3,248,MIG / GMAW Welding Professional,false,5,5,18
+542,"Construction, Install & Maintenance: Infrastructure & Property","Welding, Torch Cutting, Soldering & Brazing",MAG / GMAW,3,249,MAG / GMAW Welding Professional,false,5,6,18
+543,"Construction, Install & Maintenance: Infrastructure & Property","Welding, Torch Cutting, Soldering & Brazing",Stick / SMAW,3,250,Stick / SMAW Welding Professional,false,5,7,18
+544,"Construction, Install & Maintenance: Infrastructure & Property","Welding, Torch Cutting, Soldering & Brazing",TIG / GTAW,3,251,TIG / GTAW Welding Professional,false,5,8,18
+545,"Construction, Install & Maintenance: Infrastructure & Property","Welding, Torch Cutting, Soldering & Brazing",Flux-cored / FCAW,3,252,Flux-cored / FCAW,false,5,9,18
+546,"Construction, Install & Maintenance: Infrastructure & Property","Welding, Torch Cutting, Soldering & Brazing",PAW,3,253,PAW Welding Professional,false,5,10,18
+547,"Construction, Install & Maintenance: Infrastructure & Property","Welding, Torch Cutting, Soldering & Brazing",Atomic hydrogen / AHW,3,254,Atomic hydrogen / AHW Welding Professional,false,5,11,18
+548,"Construction, Install & Maintenance: Infrastructure & Property","Welding, Torch Cutting, Soldering & Brazing",Underwater,4,255,Underwater Welding Professional,false,5,12,18
+549,"Construction, Install & Maintenance: Infrastructure & Property","Locating, Surveying & Inspection",Utility location,3,,Utility Locator,false,6,1,18
+550,"Construction, Install & Maintenance: Infrastructure & Property","Locating, Surveying & Inspection",Land surveying,3,,Land Surveyor,false,6,2,18
+551,"Construction, Install & Maintenance: Infrastructure & Property","Locating, Surveying & Inspection",Environmental assessment,3,,Environmental Scientist,false,6,3,18
+552,"Construction, Install & Maintenance: Infrastructure & Property","Locating, Surveying & Inspection",Inspection: residential buildings,3,47,"Residential Building Inspector, Residential Building Inspection Specialist",false,6,4,18
+553,"Construction, Install & Maintenance: Infrastructure & Property","Locating, Surveying & Inspection",Inspection: commercial buildings,3,48,"Commercial Building Inspector, Commercial Building Inspection Specialist",false,6,5,18
+554,"Construction, Install & Maintenance: Infrastructure & Property","Locating, Surveying & Inspection",Inspection: civil infrastructure,4,,Civil Infrastructure Inspector,false,6,6,18
+555,"Construction, Install & Maintenance: Infrastructure & Property","Locating, Surveying & Inspection",Drones: arial,3,38,Drone Operator,false,6,7,18
+556,"Construction, Install & Maintenance: Infrastructure & Property",Commercial Driver's Licenses,Class A,4,92,Driver: Class A License,false,7,1,18
+557,"Construction, Install & Maintenance: Infrastructure & Property",Commercial Driver's Licenses,Class B,4,93,Driver: Class B License,false,7,2,18
+558,"Construction, Install & Maintenance: Infrastructure & Property",Commercial Driver's Licenses,Class C,4,94,Driver: Class C License,false,7,3,18
+559,"Construction, Install & Maintenance: Infrastructure & Property",Commercial Driver's Licenses,Endorsement H: hazardous materials,4,95,Driver: Endorsement H,false,7,4,18
+560,"Construction, Install & Maintenance: Infrastructure & Property",Commercial Driver's Licenses,Endorsement N: tanker vehicles,4,96,Driver: Endorsement N,false,7,5,18
+561,"Construction, Install & Maintenance: Infrastructure & Property",Commercial Driver's Licenses,Endorsement T: double / triple trailers,4,99,Driver: Endorsement T,false,7,6,18
+562,"Construction, Install & Maintenance: Infrastructure & Property",Equipment Operation,Drones: arial,3,38,Drone Operator,false,8,1,18
+563,"Construction, Install & Maintenance: Infrastructure & Property",Equipment Operation,Heavy equipment: GPS / machine controls,3,100,Machine Control Specialist,false,8,2,18
+564,"Construction, Install & Maintenance: Infrastructure & Property",Equipment Operation,Light & medium equipment: earthwork / construction,3,80,Light / Medium Equipment Operator,false,8,3,18
+565,"Construction, Install & Maintenance: Infrastructure & Property",Equipment Operation,Light & medium equipment: warehouse / yard / port,3,81,Light / Medium Equipment Operator,false,8,4,18
+566,"Construction, Install & Maintenance: Infrastructure & Property",Equipment Operation,Heavy equipment: earthwork / construction,4,82,Heavy Equipment Operator,false,8,5,18
+567,"Construction, Install & Maintenance: Infrastructure & Property",Equipment Operation,Heavy equipment: warehouse / yard / port,4,102,Heavy Equipment Operator,false,8,6,18
+568,"Construction, Install & Maintenance: Infrastructure & Property",Equipment Operation,Concrete pumping,3,101,Concrete Pump Operator,false,8,7,18
+569,"Construction, Install & Maintenance: Infrastructure & Property",Equipment Operation,Heavy equipment: cranes,4,103,Crane Operator,false,8,8,18
+570,"Construction, Install & Maintenance: Infrastructure & Property",Equipment Operation,Heavy equipment: paving & roadway,4,104,Paving & Roadway Heavy Equipment Operator,false,8,9,18
+571,"Construction, Install & Maintenance: Infrastructure & Property",Equipment Operation,Drilling: directional,3,105,Directional Drill Operator,false,8,10,18
+572,"Construction, Install & Maintenance: Infrastructure & Property",Equipment Operation,Drilling: well,3,106,Well Driller,false,8,11,18
+573,"Construction, Install & Maintenance: Infrastructure & Property",Equipment Operation,Drilling: foundational,3,107,Foundation Driller,false,8,12,18
+574,"Construction, Install & Maintenance: Infrastructure & Property",Equipment Operation,Drilling: core,3,108,Core Driller,false,8,13,18
+575,"Construction, Install & Maintenance: Infrastructure & Property","Carpentry, Concrete, Ironwork & Scaffolding",Carpentry: metal stud framework,4,,Metal Frame Carpenter,false,9,1,18
+576,"Construction, Install & Maintenance: Infrastructure & Property","Carpentry, Concrete, Ironwork & Scaffolding",Carpentry: rough / wood framing residential,3,,Framer,false,9,2,18
+577,"Construction, Install & Maintenance: Infrastructure & Property","Carpentry, Concrete, Ironwork & Scaffolding",Carpentry: rough / wood framing commercial,4,,Framer,false,9,3,18
+578,"Construction, Install & Maintenance: Infrastructure & Property","Carpentry, Concrete, Ironwork & Scaffolding",Carpentry: finish,4,,Finish Carpenter,false,9,4,18
+579,"Construction, Install & Maintenance: Infrastructure & Property","Carpentry, Concrete, Ironwork & Scaffolding",Carpentry: stage / theater,4,89,Stage Carpenter,false,9,5,18
+580,"Construction, Install & Maintenance: Infrastructure & Property","Carpentry, Concrete, Ironwork & Scaffolding",Woodworking,4,256,Woodworker,false,9,6,18
+581,"Construction, Install & Maintenance: Infrastructure & Property","Carpentry, Concrete, Ironwork & Scaffolding",Concrete: finishing,2,,Croncrete Finisher,false,9,7,18
+582,"Construction, Install & Maintenance: Infrastructure & Property","Carpentry, Concrete, Ironwork & Scaffolding",Concrete formwork: residential,3,,Concrete Formwork Professional,false,9,8,18
+583,"Construction, Install & Maintenance: Infrastructure & Property","Carpentry, Concrete, Ironwork & Scaffolding",Concrete formwork: commercial,4,,Concrete Formwork Professional,false,9,9,18
+584,"Construction, Install & Maintenance: Infrastructure & Property","Carpentry, Concrete, Ironwork & Scaffolding",Concrete formwork: heavy civil,4,,Concrete Formwork Professional,false,9,10,18
+585,"Construction, Install & Maintenance: Infrastructure & Property","Carpentry, Concrete, Ironwork & Scaffolding",Concrete pumping,3,101,Concrete Pump Operator,false,9,11,18
+586,"Construction, Install & Maintenance: Infrastructure & Property","Carpentry, Concrete, Ironwork & Scaffolding",Ironwork: rebar / rodbuster,3,,Rodbuster,false,9,12,18
+587,"Construction, Install & Maintenance: Infrastructure & Property","Carpentry, Concrete, Ironwork & Scaffolding",Ironwork: structural,4,,Ironworker,false,9,13,18
+588,"Construction, Install & Maintenance: Infrastructure & Property","Carpentry, Concrete, Ironwork & Scaffolding",Scaffolding,3,,Scaffolding Professional,false,9,14,18
+589,"Construction, Install & Maintenance: Infrastructure & Property","Drywall, Painting, Plaster, Stucco, Siding & Insulation",Drywall: install & repair,3,,Drywaller,false,10,1,18
+590,"Construction, Install & Maintenance: Infrastructure & Property","Drywall, Painting, Plaster, Stucco, Siding & Insulation",Painting / coatings: buildings,4,,Painter,false,10,2,18
+591,"Construction, Install & Maintenance: Infrastructure & Property","Drywall, Painting, Plaster, Stucco, Siding & Insulation",Painting / coatings: striping / pavement,3,,Road Painter,false,10,3,18
+592,"Construction, Install & Maintenance: Infrastructure & Property","Drywall, Painting, Plaster, Stucco, Siding & Insulation",Painting / coatings: industrial,3,233,Industrial Painter,false,10,4,18
+593,"Construction, Install & Maintenance: Infrastructure & Property","Drywall, Painting, Plaster, Stucco, Siding & Insulation",Plaster & stucco,4,,Plaster & Stucco Specialist,false,10,5,18
+594,"Construction, Install & Maintenance: Infrastructure & Property","Drywall, Painting, Plaster, Stucco, Siding & Insulation",Siding / cladding: install & repair,4,,Siding Specialist,false,10,6,18
+595,"Construction, Install & Maintenance: Infrastructure & Property","Drywall, Painting, Plaster, Stucco, Siding & Insulation",Insulation: install,4,,Insulation Specialist,false,10,7,18
+596,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Electrical install: residential,4,,Residential Electrician,false,11,1,18
+597,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Electrical install: commercial,4,,Commercial Electrician,false,11,2,18
+598,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Electrical install: industrial,4,,Industrial Electrician,false,11,3,18
+599,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Electrical maintenance & repair: residential,4,,Residential Electrician,false,11,4,18
+600,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Electrical maintenance & repair: commercial,4,,Commercial Electrician,false,11,5,18
+601,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Electrical maintenance & repair: industrial,4,,Industrial Electrician,false,11,6,18
+602,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Electrical: traffic signals,4,,Traffic Signal Electrician,false,11,7,18
+603,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Electrical: distribution lines,4,,Distibution Lineworker,false,11,8,18
+604,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Electrical: transmission lines,4,,Transmission Lineworker,false,11,9,18
+605,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Electrical: relay,4,,Relay Technician,false,11,10,18
+606,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Electrical: substations,4,,Substation Electrician,false,11,11,18
+607,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Electric vehicle charging stations: install,4,234,Electric Vehicle Charging Station Installer,false,11,12,18
+608,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Electric vehicle charging stations: maintenance,4,235,Electric Vehicle Charging Station Maintenance Specialist,false,11,13,18
+609,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Solar install: residential,4,,Residential Solar Technician,false,11,14,18
+610,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Solar install: commercial,4,,Commercial Solar Electrician,false,11,15,18
+611,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Solar install: industrial,4,,Industrial Solar Electrician,false,11,16,18
+612,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Solar install: utility,4,,Utility Solar Electrician,false,11,17,18
+613,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Solar maintenance & repair: residential,4,,Residential Solar Technician,false,11,18,18
+614,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Solar maintenance & repair: commercial,4,,Commercial Solar Electrician,false,11,19,18
+615,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Solar maintenance & repair: industrial,4,,Industrial Solar Electrician,false,11,20,18
+616,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Solar maintenance & repair: utility,4,,Utility Solar Electrician,false,11,21,18
+617,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Wind turbines: install,4,,Wind Turbine Technician,false,11,22,18
+618,"Construction, Install & Maintenance: Infrastructure & Property","Electrical, Power Generation & Distribution",Wind turbines: maintenance & repair,4,,Wind Turbine Technician,false,11,23,18
+619,"Construction, Install & Maintenance: Infrastructure & Property",Telecom / Data,Wiring / cabling install & maintenance: buildings,3,,Telecom Install Professional,false,12,1,18
+620,"Construction, Install & Maintenance: Infrastructure & Property",Telecom / Data,Service / setup: networks,3,,Telecom Service Technician,false,12,2,18
+621,"Construction, Install & Maintenance: Infrastructure & Property",Telecom / Data,Distribution lines / lineperson,3,,Telecom Line Technician,false,12,3,18
+622,"Construction, Install & Maintenance: Infrastructure & Property",Telecom / Data,Towers,4,,Telecom Tower Technician,false,12,4,18
+623,"Construction, Install & Maintenance: Infrastructure & Property",Audio / Visual,Entertainment systems: residential,3,,Residential A/V Specialist,false,13,1,18
+624,"Construction, Install & Maintenance: Infrastructure & Property",Audio / Visual,Entertainment systems: commercial,3,,Commercial A/V Specialist,false,13,2,18
+625,"Construction, Install & Maintenance: Infrastructure & Property",Audio / Visual,Stage / venue: audio,3,,Stage / Venue Audio Specialist,false,13,3,18
+626,"Construction, Install & Maintenance: Infrastructure & Property",Audio / Visual,Stage / venue: lighting,3,,Stage / Venue Lighting Specialist,false,13,4,18
+627,"Construction, Install & Maintenance: Infrastructure & Property","Locks, alarms & security systems",CCTV / security cameras,3,,CCTV / Security Camera Specialist,false,14,1,18
+628,"Construction, Install & Maintenance: Infrastructure & Property","Locks, alarms & security systems",Security alarms & systems,3,,Security Alarms & Systems Specialist,false,14,2,18
+629,"Construction, Install & Maintenance: Infrastructure & Property","Locks, alarms & security systems",Fire alarms / systems,3,,Fire Alarms / Systems Specialist,false,14,3,18
+630,"Construction, Install & Maintenance: Infrastructure & Property","Locks, alarms & security systems",Locksmithing,3,,Locksmith,false,14,4,18
+631,"Construction, Install & Maintenance: Infrastructure & Property","Locks, alarms & security systems",Fire suppression / sprinkler fitting,4,257,Sprinkler Fitter,false,14,5,18
+632,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",HVAC install: residential,3,,Residential HVAC Professional,false,15,1,18
+633,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",HVAC install: commercial,4,,Commercial HVAC Professional,false,15,2,18
+634,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",HVAC maintenance: residential,3,238,"Residential HVAC Technician, Residential HVAC Professional",false,15,3,18
+635,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",HVAC maintenance: commercial,4,112,"Commercial HVAC Technician, Commercial HVAC Professional",false,15,4,18
+636,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",HVAC: commercial boilers,4,114,"Commercial Boiler Technician, Commercial Boiler Professional",false,15,5,18
+637,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",HVAC: commercial chillers,4,115,"Commercial Chiller Technician, Commercial Chiller Professional",false,15,6,18
+638,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",Refrigeration install: commercial,4,,"Commercial HVAC Technician, Commercial HVAC Professional",false,15,7,18
+639,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",Refrigeration maintenance: commercial,4,113,"Commercial Refrigeration Technician, Commercial Refrigeration Professional",false,15,8,18
+640,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",Plumbing install: residential,4,,Residential Plumber,false,15,9,18
+641,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",Plumbing install: commercial,4,,Commercail Plumber,false,15,10,18
+642,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",Plumbing maintenance & repair: residential,4,,Residential Plumber,false,15,11,18
+643,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",Plumbing maintenance & repair: commercial,4,,Commercail Plumber,false,15,12,18
+644,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",Gas lines: install & maintenance,4,,"Gas Line Professional, Gas Line Technician",false,15,13,18
+645,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",Pipelaying,3,,Pipelayer,false,15,14,18
+646,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",Pipefitting,4,237,Pipefitter,false,15,15,18
+647,"Construction, Install & Maintenance: Infrastructure & Property","HVAC/R, Plumbing, Gas, Pipefitting & Pipe Laying",Fire suppression / sprinkler fitting,4,257,Sprinkler Fitter,false,15,16,18
+648,"Construction, Install & Maintenance: Infrastructure & Property",Roofing & Gutters,Roofing: residential,3,,Roofer,false,16,1,18
+649,"Construction, Install & Maintenance: Infrastructure & Property",Roofing & Gutters,Roofing: commercial,3,,Roofer,false,16,2,18
+650,"Construction, Install & Maintenance: Infrastructure & Property",Roofing & Gutters,Gutters: install & repair,3,,Gutter Specialist,false,16,3,18
+651,"Construction, Install & Maintenance: Infrastructure & Property","Masonry, Tiling & Flooring","Masonry: brick, block & stone",3,,Mason,false,17,1,18
+652,"Construction, Install & Maintenance: Infrastructure & Property","Masonry, Tiling & Flooring",Tiling,3,,Tiler,false,17,2,18
+653,"Construction, Install & Maintenance: Infrastructure & Property","Masonry, Tiling & Flooring",Flooring: hardwood,3,,Flooring Specialist,false,17,3,18
+654,"Construction, Install & Maintenance: Infrastructure & Property","Masonry, Tiling & Flooring",Flooring: carpet,3,,Flooring Specialist,false,17,4,18
+655,"Construction, Install & Maintenance: Infrastructure & Property","Masonry, Tiling & Flooring",Flooring: vinyl & laminate,3,,Flooring Specialist,false,17,5,18
+656,"Construction, Install & Maintenance: Infrastructure & Property","Masonry, Tiling & Flooring",Flooring: epoxy,3,,Flooring Specialist,false,17,6,18
+657,"Construction, Install & Maintenance: Infrastructure & Property",Glass / Windows & Doors,Windows: install,3,,Window Specialist,false,18,1,18
+658,"Construction, Install & Maintenance: Infrastructure & Property",Glass / Windows & Doors,Doors: install,3,,Door Specialist,false,18,2,18
+659,"Construction, Install & Maintenance: Infrastructure & Property",Glass / Windows & Doors,Garage Doors: install & repair,4,,Garage Door Technician,false,18,3,18
+660,"Construction, Install & Maintenance: Infrastructure & Property",Glass / Windows & Doors,Window cleaning: residential,3,61,Residential Window Cleaner,false,18,4,18
+661,"Construction, Install & Maintenance: Infrastructure & Property",Glass / Windows & Doors,Window cleaning: commercial,3,62,Commercial Window Cleaner,false,18,5,18
+662,"Construction, Install & Maintenance: Infrastructure & Property",Glass / Windows & Doors,Window tinting: buildings,3,,Building Window Tinting Specialist,false,18,6,18
+663,"Construction, Install & Maintenance: Infrastructure & Property",Elevators,Install,4,,Elevator Technician,false,19,1,18
+664,"Construction, Install & Maintenance: Infrastructure & Property",Elevators,Maintenance,4,,Elevator Technician,false,19,2,18
+665,"Construction, Install & Maintenance: Infrastructure & Property","Landscaping, Pools & Tree Care",Landscape design,4,69,Landscape Design Professional,false,20,1,18
+666,"Construction, Install & Maintenance: Infrastructure & Property","Landscaping, Pools & Tree Care",Landscaping & groundskeeping,2,72,"Lawn technician, Landscaping professional",false,20,2,18
+667,"Construction, Install & Maintenance: Infrastructure & Property","Landscaping, Pools & Tree Care",Irrigation,3,73,"Irrigation Specialist, Irrigation Professional, Irrigation Tech",false,20,3,18
+668,"Construction, Install & Maintenance: Infrastructure & Property","Landscaping, Pools & Tree Care",Tree & shrub care,3,74,"Tree & Shrub Care Specialist, Tree & Shrub Care Professional",false,20,4,18
+669,"Construction, Install & Maintenance: Infrastructure & Property","Landscaping, Pools & Tree Care",Tree trimming,3,75,"Tree Trimming Specialist, Tree Trimming Professional",false,20,5,18
+670,"Construction, Install & Maintenance: Infrastructure & Property","Landscaping, Pools & Tree Care",Chemical application: lawn care,3,76,Chemical Applicator,false,20,6,18
+671,"Construction, Install & Maintenance: Infrastructure & Property","Landscaping, Pools & Tree Care",Pest control,3,77,"Pest Control Technician, Pest Control Tech",false,20,7,18
+672,"Construction, Install & Maintenance: Infrastructure & Property","Landscaping, Pools & Tree Care",Fence install,3,78,"Fence Install Specialist, Fence Install Professional",false,20,8,18
+673,"Construction, Install & Maintenance: Infrastructure & Property","Landscaping, Pools & Tree Care",Construction: pools & water features,3,79,Pool Construction Professional,false,20,9,18
+674,"Construction, Install & Maintenance: Infrastructure & Property","Landscaping, Pools & Tree Care",Maintenance & service: residential pools,3,59,"Residential Pool Maintenance & Service Specialist, Residential Pool Maintenance & Service Professional",false,20,10,18
+675,"Construction, Install & Maintenance: Infrastructure & Property","Landscaping, Pools & Tree Care",Maintenance & service: commercial pools,4,60,"Commercial Pool Maintenance & Service Specialist, Commercial Pool Maintenance & Service Professional",false,20,11,18
+676,"Construction, Install & Maintenance: Infrastructure & Property","Landscaping, Pools & Tree Care",General labor: heavy lifting,1,13,"Team Member, Associate, Crew Member",false,20,12,18
+677,Retail & Foodservice,Management,Customer service,5,7,"Customer Service Manager, Client Service Manager, Client Relations Manager, Customer Support Manager",false,1,2,1
+678,Retail & Foodservice,"Sales, Customer Services & Retail Operations",Server / waitstaff,3,5,"Server, Waitstaff",false,2,3,1
+679,Sales & Customer Service,Sales,Influencer: social media platforms,3,32,Influencer,false,2,4,2
+680,Sales & Customer Service,Sales,Broker: freight / logistics,4,22,Broker,false,2,7,2
+681,Sales & Customer Service,Sales,Broker: securities,4,23,Broker,false,2,8,2
+682,"Finance, Banking & Insurance",Management,Customer service,5,7,"Customer Service Manager, Client Service Manager, Client Relations Manager, Customer Support Manager",false,1,5,5
+683,"Finance, Banking & Insurance",Sales,Broker: securities,4,23,Broker,false,2,3,5
+684,"Landscaping, Groundskeeping & Pest Control",Construction Site Management,Landscaping,5,63,Landscaping Construction Site Manager,false,1,1,11
+685,"Landscaping, Groundskeeping & Pest Control",Construction Site Management,Pools & water features,5,64,Pool Construction Site Manager,false,1,2,11
+686,"Landscaping, Groundskeeping & Pest Control",Construction Project Management,Pools & water features,5,66,Pool Construction Project Manager,false,1,4,11
+687,"Landscaping, Groundskeeping & Pest Control",Construction Estimating,Landscaping,4,67,Landscaping Estimator,false,1,5,11
+688,"Landscaping, Groundskeeping & Pest Control",Construction Estimating,Pools & water features,4,68,Pool Estimator,false,1,6,11
+689,"Landscaping, Groundskeeping & Pest Control",Services & Operations,Construction: pools & water features,3,79,Pool Construction Professional,false,2,9,11
+690,"Landscaping, Groundskeeping & Pest Control",Services & Operations,Maintenance & service: residential pools,3,59,"Residential Pool Maintenance & Service Specialist, Residential Pool Maintenance & Service Professional",false,2,10,11
+691,"Landscaping, Groundskeeping & Pest Control",Services & Operations,Maintenance & service: commercial pools,4,60,"Commercial Pool Maintenance & Service Specialist, Commercial Pool Maintenance & Service Professional",false,2,11,11
+692,Driving & Equipment Operation,Equipment Operation,Drilling: core,3,108,Core Driller,false,3,13,14
+693,"Logistics, Warehousing & Distribution",Management,Broker: freight / logistics,5,,Freight Brokerage Manager,false,1,7,15
+694,"Logistics, Warehousing & Distribution",Management,"Maintenance: industrial equipment, machinery & systems",5,88,"Industrial Maintenance Manager, Maintenance Manager",false,1,11,15
+695,"Logistics, Warehousing & Distribution",Operations,Broker: freight / logistics,4,22,Broker,false,2,4,15
