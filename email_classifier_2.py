@@ -65,7 +65,7 @@ from ollama import Client
 ollama_client = Client(host="http://localhost:11434")
 
 # Load your CSV
-df = pd.read_csv("emails_summary.csv")
+df = pd.read_csv("csv/emails_summary.csv")
 
 # Regex pattern to extract emails
 email_pattern = re.compile(r"\b[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b")

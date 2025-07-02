@@ -1,0 +1,44 @@
+hr_prompt_template = PromptTemplate.from_template(
+  """
+You are an email classification assistant.
+The company is {business_name}. Here is a list of emails associated with it:
+{emails}.
+Classify each email into one of these categories based only on its text (ignore case):
+- BEST:
+  Joinus@, HR@, TA@, TalentAquisition@, HumanResources@, Apply@, Jobs@, Careers@, Hiring@, Recruiting@, Recruitment@,
+  Talent@, TalentTeam@, People@, PeopleOps@, Applications@, Submit@, CV@, Resume@, WorkWithUs@, JoinUs@,
+  JobsHR@, HRTeam@, Recruiters@, TalentMgmt@, HiringTeam@, TeamHR@, Opportunities@, Team@, Staffing@, Onboarding@,
+  Also include emails containing company-specific variants like {dynamic_best_tags}
+- BETTER:
+  {business_name}@, Info@, Contact@, ContactUs@, Hello@, Admin@, Mail@, Store_#@, Clinic_#@, hola@, office@
+- EXCLUDE:
+  A personal email or individual's email, Support@, Invoices@, Billing@, GuestServices@, Estimates@,
+  Sales@, Orders@, Customerservice@, press@, Accessibility@, media@, feedback@
+Your job is to label each email from the list with one of the categories above.
+Use only the emails from the list. Do NOT generate new emails. Do NOT explain anything.
+Only label emails that exactly match the keywords above. If the keyword is not present in the email, it must be EXCLUDE.
+Return each email on its own line in the format:
+email@domain.com: CATEGORY
+(Where CATEGORY is one of BEST, BETTER, EXCLUDE)
+Do not explain anything else. Do not return anything beyond the classified list.
+
+""")
+sales_prompt_template = PromptTemplate.from_template("""
+You are an email classification assistant.
+The company is {business_name}. Here is a list of emails associated with it:
+{emails}
+Classify each email into one of these categories based only on its text (ignore case):
+- BEST:
+  sales@, orders@
+- BETTER:
+  Info@, Contact@, ContactUs@, Hello@, Admin@, Mail@, Store_#@, Clinic_#@, hola@, Support@
+- EXCLUDE:
+  A personal email or individual's email, Support@, Invoices@, Billing@, GuestServices@, Estimates@, Customerservice@, press@, Accessibility@, media@, feedback@
+Your job is to label each email from the list with one of the categories above.
+Use only the emails from the list. Do NOT generate new emails. Do NOT explain anything.
+Only label emails that exactly match the keywords above. If the keyword is not present in the email, it must be EXCLUDE.
+Return each email on its own line in the format:
+email@domain.com: CATEGORY
+(Where CATEGORY is one of BEST, BETTER, EXCLUDE)
+Do not explain anything else. Do not return anything beyond the classified list.
+""")
