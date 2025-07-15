@@ -240,7 +240,7 @@ if __name__ == "__main__":
     )
 
     # Search and limit to 10 places
-    places = tagger.search_places("animal care services", "Los Angeles")[:10]
+    places = tagger.search_places("pet care services", "Los Angeles")[:10]
 
     results = []
     for i, place in enumerate(places, 1):
