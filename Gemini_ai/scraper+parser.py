@@ -383,8 +383,9 @@ import csv
 import os
 
 # === API KEYS ===
-GEMINI_API_KEY = "AIzaSyA9TywTucTuH0W3iTXABOGjwOox-chb9F8"
-GOOGLE_PLACES_API_KEY = "AIzaSyBnzR1YLd-SOwjoU1XYB2Rce6We0dvvmN4"
+# GEMINI_API_KEY = "AIzaSyA9TywTucTuH0W3iTXABOGjwOox-chb9F8"
+GEMINI_API_KEY = ""
+GOOGLE_PLACES_API_KEY = ""
 
 genai.configure(api_key=GEMINI_API_KEY)
 
