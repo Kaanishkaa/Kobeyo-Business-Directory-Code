@@ -383,8 +383,8 @@ import csv
 import os
 
 # === API KEYS ===
-GEMINI_API_KEY = ""
-GOOGLE_PLACES_API_KEY = ""
+GEMINI_API_KEY = "AIzaSyA9TywTucTuH0W3iTXABOGjwOox-chb9F8"
+GOOGLE_PLACES_API_KEY = "AIzaSyBnzR1YLd-SOwjoU1XYB2Rce6We0dvvmN4"
 
 genai.configure(api_key=GEMINI_API_KEY)
 
@@ -417,7 +417,7 @@ def search_places(business_type: str, location: str):
     params = {"query": query, "key": GOOGLE_PLACES_API_KEY}
     response = requests.get(url, params=params)
     response.raise_for_status()
-    return response.json().get("results", [])[:5]
+    return response.json().get("results", [])
 
 
 # === Google Places Details ===
@@ -624,8 +624,10 @@ if __name__ == "__main__":
         group = identify_business_group_from_csv(
             parsed["business_type"], "Extracted_Business_Groups_and_Types.csv"
         )
-        skill_file = f"{group.lower().replace(' & ', '_and_').replace(' ', '_')}.xlsx"
-
+        skill_file = (
+            f"{group.replace(' & ', '_and_').replace(' ', '_').replace(',', '')}.xlsx"
+        )
+        print(skill_file)
         if not os.path.exists(skill_file):
             raise FileNotFoundError(f"❌ Skill tag sheet '{skill_file}' not found.")
 
