@@ -1,3 +1,5 @@
+# Sample Input : animal services in LA
+
 import os
 import re
 import pandas as pd
@@ -8,11 +10,12 @@ from pydrive.drive import GoogleDrive
 import time
 from openai import OpenAI
 
-OPENAI_API_KEY = "PLACE YOUR OPENAI API KEY"
-GOOGLE_API_KEY = "PLACE YOUR GOOGLE API KEY"
+GOOGLE_API_KEY = "Place your google api key here"
+OPENAI_API_KEY = "Place your openai api key here"
+
 
 class PromptParser:
-    def __init__(self, folder_name="Skill tag sheets", output_folder="Output"):
+    def __init__(self, folder_name="Skill-tag csv", output_folder="Output"):
         self.folder_name = folder_name
         self.output_folder = output_folder
         self.drive = self.authenticate_drive()
@@ -105,6 +108,41 @@ class PromptParser:
         file_obj.GetContentFile(file_path)
         return file_path
 
+    def load_skill_tag_sheet(self, business_group: str) -> str:
+        """
+        Finds and downloads the correct skill tag CSV from 'Skill-tag csv ' folder
+        based on the given business group name. Returns the local path of the file.
+        """
+        print(f"Looking for skill tag sheet for business group: {business_group}")
+
+        # Convert to expected filename format
+        group_slug = business_group.strip().title().replace(" ", "_")
+        expected_filename = f"{group_slug}.xlsx"
+        print(f"Constructed expected file name: {expected_filename}")
+
+        # Get folder ID for "Skill-tag csv"
+        skill_tag_folder_id = self.get_folder_id("Skill-tag csv")
+        print(f"Folder ID for 'Skill-tag csv': {skill_tag_folder_id}")
+
+        # List files in that folder
+        skill_files = self.drive.ListFile({
+            'q': f"'{skill_tag_folder_id}' in parents and trashed=false"
+        }).GetList()
+
+        # Try to find the matching file
+        matching_file = next((f for f in skill_files if f['title'] == expected_filename), None)
+
+        if not matching_file:
+            raise FileNotFoundError(f"Skill tag sheet not found for group: {business_group}")
+
+        print(f"Found skill tag file: {matching_file['title']} (ID: {matching_file['id']})")
+
+        # Download it to /tmp and return path
+        file_path = f"/tmp/{expected_filename}"
+        matching_file.GetContentFile(file_path)
+        print(f"Downloaded skill tag file to: {file_path}")
+        return file_path
+
     def parse_location_and_type(self, prompt: str) -> Dict[str, str]:
         # Replace with your custom logic or OpenAI if needed
         match = re.search(r"(.*) in (.*)", prompt, re.IGNORECASE)
@@ -171,14 +209,25 @@ class PromptParser:
         type_map = self.load_business_type_map()
         available_groups = list(type_map.keys())
         matched_group = self.match_business_group(business_group, available_groups)
+
+         # 🔁 Load the skill tag sheet for the matched group
+        try:
+            skill_tag_path = self.load_skill_tag_sheet(matched_group)
+            print(f"Skill tag sheet loaded: {skill_tag_path}")
+            # Optional: load as DataFrame
+            # skill_df = pd.read_csv(skill_tag_path)
+        except Exception as e:
+            print(f"Could not load skill tag sheet for '{matched_group}': {e}")
+            skill_tag_path = None
+
         business_type_options = type_map.get(matched_group.lower(), [])
         print("Matched business group is : ", matched_group)
 
         if not business_type_options:
-            print(f"⚠️ No business types found for group: {business_group}")
+            print(f"No business types found for group: {business_group}")
 
         # Call Google Places API just once
-        places_data = self.search_all_places(business_group, location, limit=100)
+        places_data = self.search_all_places(business_group, location, limit=10)
 
         rows = []
         for place in places_data:
@@ -202,15 +251,61 @@ class PromptParser:
             })
 
         combined_df = pd.DataFrame(rows) if rows else pd.DataFrame()
-        output_path = "/tmp/temp_results.xlsx"
-        combined_df.to_excel(output_path, index=False)
-        self.upload_result_file(output_path, "results.xlsx")
+        # output_path = "/tmp/temp_results.xlsx"
+        # combined_df.to_excel(output_path, index=False)
+        combined_df = self.enrich_with_skills(combined_df, skill_tag_path)
+        # Pass raw new DataFrame directly
+        self.upload_result_file(new_data=combined_df, title="results.csv")
 
-    def upload_result_file(self, new_data_path, title="results.xlsx"):
+    def enrich_with_skills(self, df: pd.DataFrame, skill_tag_path: str) -> pd.DataFrame:
+        """
+        Adds Skill IDs and Skill Names to the result DataFrame based on matched business types.
+        """
+        if not skill_tag_path or not os.path.exists(skill_tag_path):
+            print("Skill tag sheet not found or missing. Skipping enrichment.")
+            return df
+
+        try:
+            skill_df = pd.read_excel(skill_tag_path)
+        except Exception as e:
+            print(f"Could not read skill tag sheet: {e}")
+            return df
+
+        # Normalize column names
+        skill_df.columns = [col.strip() for col in skill_df.columns]
+        skill_df["Skills Tags"] = skill_df["Skills Tags"].astype(str).str.strip().str.lower()
+        
+        # Create lookup dict
+        skill_lookup = {
+            row["Skills Tags"]: (
+                str(row.get("Skills IDs", "")).strip(),
+                str(row.get("Skills Names", "")).strip()
+            )
+            for _, row in skill_df.iterrows()
+        }
+
+        # Normalize and map
+        def get_skill_info(matched_type):
+            key = str(matched_type).strip().lstrip("-").lower()  # remove leading dash too
+            return skill_lookup.get(key, ("", ""))
+
+        df["Skill IDs"] = df["matched business type"].map(lambda x: get_skill_info(x)[0])
+        df["Skill Names"] = df["matched business type"].map(lambda x: get_skill_info(x)[1])
+
+        print("Enriched results with Skill IDs and Skill Names.")
+        return df
+
+
+    def upload_result_file(self, new_data: pd.DataFrame, title="results.xlsx"):
+        """
+        Uploads or merges the given new_data DataFrame with the existing file in Drive.
+        Deduplicates based on business name + address.
+        Automatically handles CSV or XLSX based on the file extension in 'title'.
+        """
         # Check for existing file in the output folder
         files = self.drive.ListFile({
         'q': f"'{self.output_folder_id}' in parents and trashed=false and title='{title}'"
-            }).GetList()
+        }).GetList()
 
         existing_df = pd.DataFrame()
         if files:
@@ -218,29 +313,51 @@ class PromptParser:
             existing_path = f"/tmp/{title}"
             existing_file.GetContentFile(existing_path)
             try:
-                existing_df = pd.read_excel(existing_path)
+                if title.lower().endswith(".xlsx"):
+                    existing_df = pd.read_excel(existing_path)
+                else:
+                    existing_df = pd.read_csv(existing_path)
+                print(f"Loaded existing '{title}' from Drive with {len(existing_df)} rows")
             except Exception as e:
-                print(f"⚠️ Could not read existing file, using only new data: {e}")
+                print(f"Could not read existing file. Proceeding with new data only: {e}")
         else:
-            print("📄 No existing results file found. A new one will be created.")
+            print("No existing results file found. A new one will be created.")
 
-        # Load new data (CSV or XLSX depending on path)
-        if new_data_path.endswith(".csv"):
-            new_df = pd.read_csv(new_data_path)
-        else:
-            new_df = pd.read_excel(new_data_path)
+        combined_df = pd.concat([existing_df, new_data], ignore_index=True)
 
-        # Merge, deduplicate by name+address
-        combined_df = pd.concat([existing_df, new_df], ignore_index=True)
+        # Normalize for better deduplication
+        combined_df["name"] = combined_df["name"].str.strip().str.lower()
+        combined_df["address"] = combined_df["address"].str.strip().str.lower()
+
+        # Deduplicate
         combined_df.drop_duplicates(subset=["name", "address"], inplace=True)
 
-        # Save merged output as XLSX (always .xlsx for Google Drive view)
-        final_path = f"/tmp/{title}"
-        combined_df.to_excel(final_path, index=False)
+        # Count
+        before = len(existing_df)
+        after = len(combined_df)
+        added = after - before
 
-        # Upload or overwrite
-        file_metadata = {"title": title, "parents": [{"id": self.output_folder_id}]}
-        output_file = self.drive.CreateFile(file_metadata)
-        output_file.SetContentFile(final_path)
-        output_file.Upload()
-        print(f"Uploaded updated '{title}' to Drive ({len(combined_df)} unique records).")
+        print(f"Updated results: {after} unique businesses ({added} new added)")
+
+        # Save to local disk (CSV or XLSX)
+        final_output_path = f"/tmp/{title}"
+        if title.lower().endswith(".xlsx"):
+            combined_df.to_excel(final_output_path, index=False)
+        else:
+            combined_df.to_csv(final_output_path, index=False)
+        # Delete existing file(s) with the same name
+        for f in files:
+            try:
+                f.Delete()
+                print(f"Deleted old file: {f['title']} (ID: {f['id']})")
+            except Exception as e:
+                print(f"Failed to delete old file '{f['title']}': {e}")
+
+        # Upload to Google Drive
+        file_to_upload = self.drive.CreateFile({
+            "title": title,
+            "parents": [{"id": self.output_folder_id}]
+        })
+        file_to_upload.SetContentFile(final_output_path)
+        file_to_upload.Upload()
+        print(f"File '{title}' uploaded to Google Drive folder '{self.output_folder}'.")
