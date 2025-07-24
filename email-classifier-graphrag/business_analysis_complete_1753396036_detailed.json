@@ -1,0 +1,206 @@
+[
+  {
+    "website": "http://www.pitchounbakery.com/",
+    "crawl_status": "completed",
+    "pages_crawled": 11,
+    "emails": {
+      "total_found": 2,
+      "hr_emails": [],
+      "sales_emails": [
+        {
+          "email": "sales@pitchounbakery.com",
+          "confidence": 0.95
+        }
+      ],
+      "review_needed": [
+        {
+          "email": "contact@pitchounbakery.com",
+          "confidence": 0.7995480298995972
+        }
+      ]
+    },
+    "career_page": {
+      "best_url": "http://www.pitchounbakery.com/careers/",
+      "confidence": 1.0,
+      "all_found": 1,
+      "top_candidates": [
+        {
+          "url": "http://www.pitchounbakery.com/careers/",
+          "confidence": 1.0,
+          "score": 1.0,
+          "patterns": [
+            "career",
+            "careers"
+          ]
+        }
+      ]
+    },
+    "raw_data": {
+      "all_emails": [
+        "contact@pitchounbakery.com",
+        "sales@pitchounbakery.com"
+      ],
+      "all_career_links": [
+        "http://www.pitchounbakery.com/careers/"
+      ]
+    }
+  },
+  {
+    "website": "http://www.republiquela.com/",
+    "crawl_status": "completed",
+    "pages_crawled": 1,
+    "emails": {
+      "total_found": 0,
+      "hr_emails": [],
+      "sales_emails": [],
+      "review_needed": []
+    },
+    "career_page": {
+      "best_url": null,
+      "confidence": 0,
+      "all_found": 0,
+      "top_candidates": []
+    },
+    "raw_data": {
+      "all_emails": [],
+      "all_career_links": []
+    }
+  },
+  {
+    "website": "http://proofbakery.com/",
+    "crawl_status": "completed",
+    "pages_crawled": 8,
+    "emails": {
+      "total_found": 4,
+      "hr_emails": [],
+      "sales_emails": [
+        {
+          "email": "community@proofbakeryla.com",
+          "confidence": 0.8242309093475342
+        },
+        {
+          "email": "info@proofbakeryla.com",
+          "confidence": 0.95
+        },
+        {
+          "email": "info@proofbakery.com",
+          "confidence": 0.95
+        },
+        {
+          "email": "orders@proofbakeryla.com",
+          "confidence": 0.95
+        }
+      ],
+      "review_needed": []
+    },
+    "career_page": {
+      "best_url": null,
+      "confidence": 0,
+      "all_found": 0,
+      "top_candidates": []
+    },
+    "raw_data": {
+      "all_emails": [
+        "community@proofbakeryla.com",
+        "info@proofbakeryla.com",
+        "info@proofbakery.com",
+        "orders@proofbakeryla.com"
+      ],
+      "all_career_links": []
+    }
+  },
+  {
+    "website": "http://www.cakemonkey.com/",
+    "crawl_status": "completed",
+    "pages_crawled": 11,
+    "emails": {
+      "total_found": 10,
+      "hr_emails": [],
+      "sales_emails": [
+        {
+          "email": "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+          "confidence": 0.8991475582122803
+        },
+        {
+          "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+          "confidence": 0.8990553379058838
+        },
+        {
+          "email": "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+          "confidence": 0.8982969284057617
+        },
+        {
+          "email": "info@cakemonkey.com",
+          "confidence": 0.95
+        },
+        {
+          "email": "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+          "confidence": 0.8986858844757081
+        },
+        {
+          "email": "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+          "confidence": 0.8989007949829102
+        },
+        {
+          "email": "storefront@cakemonkey.com",
+          "confidence": 0.8991872310638428
+        },
+        {
+          "email": "8c4075d5481d476e945486754f783364@sentry.io",
+          "confidence": 0.8991119861602783
+        },
+        {
+          "email": "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+          "confidence": 0.8987711906433106
+        },
+        {
+          "email": "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com",
+          "confidence": 0.8988585472106934
+        }
+      ],
+      "review_needed": []
+    },
+    "career_page": {
+      "best_url": null,
+      "confidence": 0,
+      "all_found": 0,
+      "top_candidates": []
+    },
+    "raw_data": {
+      "all_emails": [
+        "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+        "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+        "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+        "info@cakemonkey.com",
+        "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+        "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+        "storefront@cakemonkey.com",
+        "8c4075d5481d476e945486754f783364@sentry.io",
+        "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+        "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com"
+      ],
+      "all_career_links": []
+    }
+  },
+  {
+    "website": "http://www.magnoliabakery.com/",
+    "crawl_status": "timeout",
+    "pages_crawled": 0,
+    "emails": {
+      "total_found": 0,
+      "hr_emails": [],
+      "sales_emails": [],
+      "review_needed": []
+    },
+    "career_page": {
+      "best_url": null,
+      "confidence": 0,
+      "all_found": 0,
+      "top_candidates": []
+    },
+    "raw_data": {
+      "all_emails": [],
+      "all_career_links": []
+    }
+  }
+]
