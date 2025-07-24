@@ -1,0 +1,952 @@
+[
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.201971"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.201971"
+  },
+  {
+    "email": "weho@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.208752"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.201971"
+  },
+  {
+    "email": "weho@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.208752"
+  },
+  {
+    "email": "customerservice@philippes.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.213836"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.201971"
+  },
+  {
+    "email": "weho@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.208752"
+  },
+  {
+    "email": "customerservice@philippes.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.213836"
+  },
+  {
+    "email": "info@lasandwichbar.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.220274"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.201971"
+  },
+  {
+    "email": "weho@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.208752"
+  },
+  {
+    "email": "customerservice@philippes.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.213836"
+  },
+  {
+    "email": "info@lasandwichbar.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.220274"
+  },
+  {
+    "email": "info@colesfrenchdip.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.230527"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.201971"
+  },
+  {
+    "email": "weho@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.208752"
+  },
+  {
+    "email": "customerservice@philippes.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.213836"
+  },
+  {
+    "email": "info@lasandwichbar.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.220274"
+  },
+  {
+    "email": "info@colesfrenchdip.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.230527"
+  },
+  {
+    "email": "catering@mikesdelionline.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.245148"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.201971"
+  },
+  {
+    "email": "weho@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.208752"
+  },
+  {
+    "email": "customerservice@philippes.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.213836"
+  },
+  {
+    "email": "info@lasandwichbar.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.220274"
+  },
+  {
+    "email": "info@colesfrenchdip.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.230527"
+  },
+  {
+    "email": "catering@mikesdelionline.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.245148"
+  },
+  {
+    "email": "info@maidforla.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.250251"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.201971"
+  },
+  {
+    "email": "weho@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.208752"
+  },
+  {
+    "email": "customerservice@philippes.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.213836"
+  },
+  {
+    "email": "info@lasandwichbar.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.220274"
+  },
+  {
+    "email": "info@colesfrenchdip.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.230527"
+  },
+  {
+    "email": "catering@mikesdelionline.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.245148"
+  },
+  {
+    "email": "info@maidforla.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.250251"
+  },
+  {
+    "email": "sales@maidthis.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.261247"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.201971"
+  },
+  {
+    "email": "weho@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.208752"
+  },
+  {
+    "email": "customerservice@philippes.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.213836"
+  },
+  {
+    "email": "info@lasandwichbar.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.220274"
+  },
+  {
+    "email": "info@colesfrenchdip.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.230527"
+  },
+  {
+    "email": "catering@mikesdelionline.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.245148"
+  },
+  {
+    "email": "info@maidforla.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.250251"
+  },
+  {
+    "email": "sales@maidthis.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.261247"
+  },
+  {
+    "email": "contact@lacleaningco.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.266594"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.201971"
+  },
+  {
+    "email": "weho@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.208752"
+  },
+  {
+    "email": "customerservice@philippes.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.213836"
+  },
+  {
+    "email": "info@lasandwichbar.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.220274"
+  },
+  {
+    "email": "info@colesfrenchdip.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.230527"
+  },
+  {
+    "email": "catering@mikesdelionline.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.245148"
+  },
+  {
+    "email": "info@maidforla.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.250251"
+  },
+  {
+    "email": "sales@maidthis.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.261247"
+  },
+  {
+    "email": "contact@lacleaningco.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.266594"
+  },
+  {
+    "email": "support@logunova.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.274772"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.201971"
+  },
+  {
+    "email": "weho@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.208752"
+  },
+  {
+    "email": "customerservice@philippes.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.213836"
+  },
+  {
+    "email": "info@lasandwichbar.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.220274"
+  },
+  {
+    "email": "info@colesfrenchdip.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.230527"
+  },
+  {
+    "email": "catering@mikesdelionline.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.245148"
+  },
+  {
+    "email": "info@maidforla.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.250251"
+  },
+  {
+    "email": "sales@maidthis.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.261247"
+  },
+  {
+    "email": "contact@lacleaningco.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.266594"
+  },
+  {
+    "email": "support@logunova.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.274772"
+  },
+  {
+    "email": "support@sparkleshinela.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.284776"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.201971"
+  },
+  {
+    "email": "weho@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.208752"
+  },
+  {
+    "email": "customerservice@philippes.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.213836"
+  },
+  {
+    "email": "info@lasandwichbar.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.220274"
+  },
+  {
+    "email": "info@colesfrenchdip.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.230527"
+  },
+  {
+    "email": "catering@mikesdelionline.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.245148"
+  },
+  {
+    "email": "info@maidforla.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.250251"
+  },
+  {
+    "email": "sales@maidthis.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.261247"
+  },
+  {
+    "email": "contact@lacleaningco.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.266594"
+  },
+  {
+    "email": "support@logunova.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.274772"
+  },
+  {
+    "email": "support@sparkleshinela.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.284776"
+  },
+  {
+    "email": "support@schedulista.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.292925"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.201971"
+  },
+  {
+    "email": "weho@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.208752"
+  },
+  {
+    "email": "customerservice@philippes.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.213836"
+  },
+  {
+    "email": "info@lasandwichbar.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.220274"
+  },
+  {
+    "email": "info@colesfrenchdip.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.230527"
+  },
+  {
+    "email": "catering@mikesdelionline.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.245148"
+  },
+  {
+    "email": "info@maidforla.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.250251"
+  },
+  {
+    "email": "sales@maidthis.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.261247"
+  },
+  {
+    "email": "contact@lacleaningco.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.266594"
+  },
+  {
+    "email": "support@logunova.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.274772"
+  },
+  {
+    "email": "support@sparkleshinela.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.284776"
+  },
+  {
+    "email": "support@schedulista.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.292925"
+  },
+  {
+    "email": "support@marchingmaids.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.298752"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.201971"
+  },
+  {
+    "email": "weho@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.208752"
+  },
+  {
+    "email": "customerservice@philippes.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.213836"
+  },
+  {
+    "email": "info@lasandwichbar.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.220274"
+  },
+  {
+    "email": "info@colesfrenchdip.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.230527"
+  },
+  {
+    "email": "catering@mikesdelionline.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.245148"
+  },
+  {
+    "email": "info@maidforla.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.250251"
+  },
+  {
+    "email": "sales@maidthis.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.261247"
+  },
+  {
+    "email": "contact@lacleaningco.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.266594"
+  },
+  {
+    "email": "support@logunova.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.274772"
+  },
+  {
+    "email": "support@sparkleshinela.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.284776"
+  },
+  {
+    "email": "support@schedulista.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.292925"
+  },
+  {
+    "email": "support@marchingmaids.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.298752"
+  },
+  {
+    "email": "business@arcagenolus.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.308233"
+  },
+  {
+    "email": "info@business.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-23T23:51:54.611864"
+  },
+  {
+    "email": "info@bangbang.la",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.177339"
+  },
+  {
+    "email": "dtla@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.190640"
+  },
+  {
+    "email": "sales@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.194899"
+  },
+  {
+    "email": "info@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.201971"
+  },
+  {
+    "email": "weho@bottegalouie.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.208752"
+  },
+  {
+    "email": "customerservice@philippes.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.213836"
+  },
+  {
+    "email": "info@lasandwichbar.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.220274"
+  },
+  {
+    "email": "info@colesfrenchdip.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.230527"
+  },
+  {
+    "email": "catering@mikesdelionline.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.245148"
+  },
+  {
+    "email": "info@maidforla.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.250251"
+  },
+  {
+    "email": "sales@maidthis.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.261247"
+  },
+  {
+    "email": "contact@lacleaningco.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.266594"
+  },
+  {
+    "email": "support@logunova.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.274772"
+  },
+  {
+    "email": "support@sparkleshinela.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.284776"
+  },
+  {
+    "email": "support@schedulista.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.292925"
+  },
+  {
+    "email": "support@marchingmaids.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.298752"
+  },
+  {
+    "email": "business@arcagenolus.com",
+    "correct_category": "Sales",
+    "timestamp": "2025-07-24T00:20:14.308233"
+  },
+  {
+    "email": "careers@fashionnova.com",
+    "correct_category": "HR",
+    "timestamp": "2025-07-24T00:20:14.315285"
+  }
+]
