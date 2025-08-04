@@ -1,0 +1,107 @@
+Original URL,Status Code,Final URL,Verdict
+https://www.fire.blazepizza.com/jobs/,200,https://contactus.tellblazepizza.com/?AspxAutoDetectCookieSupport=1,OK
+https://www.bowlerocorp.com/careers,200,https://www.luckystrikeent.com/careers,OK
+https://www.tocaya.com/careers/,200,https://www.tocaya.com/careers/,OK
+https://www.giulianosdeli.com/employment,403,https://www.giulianosdeli.com/employment,HTTP 403
+https://www.grandperformances.org/jobs,200,https://www.grandperformances.org/jobs,OK
+https://nhm.org/careers-our-museums,200,https://nhm.org/careers-our-museums,OK
+https://kalaveras.com/careers/,406,https://kalaveras.com/careers/,HTTP 406
+https://jobs.harborfreight.com/,200,https://jobs.harborfreight.com/,BrowserError: Timeout 30000ms exceeded.
+https://lamonarcabakery.com/pages/careers,200,https://lamonarcabakery.com/pages/careers,BrowserError: Timeout 30000ms exceeded.
+https://careers.orkin.com/orkin/jobs?state=California,200,https://careers.orkin.com/orkin/jobs?state=California,OK
+https://www.michaels.com/jobs,200,https://careers.michaels.com/us/en,OK
+https://www.lafleetcare.com/employment,200,https://www.lafleetcare.com/employment,BrowserError: Timeout 30000ms exceeded.
+https://governmentjobs.com/careers/lacounty,200,https://www.governmentjobs.com/careers/lacounty,OK
+https://www.janusetcie.com/residential/about/careers/,200,https://www.janusetcie.com/residential/about/careers/,OK
+https://recruiting.paylocity.com/recruiting/jobs/All/1a9f5b56-2726-4543-ad6b-98180abdfef7/Bell-Properties,200,https://recruiting.paylocity.com/recruiting/jobs/All/1a9f5b56-2726-4543-ad6b-98180abdfef7/Bell-Properties,OK
+https://www.fashionnova.com/pages/careers#jobs,200,https://www.fashionnova.com/pages/careers#jobs,CAPTCHA
+https://secure6.saashr.com/ta/6122561.careers?CareersSearch,Invalid URL,,
+https://www.pavilions.com/careers.html,200,https://www.pavilions.com/careers.html,OK
+https://jobs.gnc.com/job-search-results/?location=Los%20Angeles%2C%20CA%2C%20USA&latitude=34.0549076&longitude=-118.242643&radius=25,200,https://myjobs.adp.com/gnc?location=Los%20Angeles%2C%20CA%2C%20USA&latitude=34.0549076&longitude=-118.242643&radius=25,OK
+https://www.tjx.com/careers,200,https://www.tjx.com/careers,OK
+https://caamuseum.org/about/jobs-and-internships,200,https://caamuseum.org/about/jobs-and-internships,OK
+https://jobs.lever.co/actionlife,200,https://jobs.lever.co/actionlife,CAPTCHA
+https://www.serenesecurityservices.com/private-security-services-join-us,200,https://www.serenesecurityservices.com/private-security-services-join-us,OK
+https://365digital.agency/career/,200,https://365digital.agency/career/,OK
+https://jobs.hertzcareers.com/#en/sites/CX_1/requisitions?location=Los+Angeles%2C+CA%2C+United+States&locationId=300000061161477&locationLevel=city&mode=location&radius=25&radiusUnit=MI,200,https://jobs.hertzcareers.com/#en/sites/CX_1/requisitions?location=Los+Angeles%2C+CA%2C+United+States&locationId=300000061161477&locationLevel=city&mode=location&radius=25&radiusUnit=MI,OK
+https://jobs.harborfreight.com/,200,https://jobs.harborfreight.com/,BrowserError: Timeout 30000ms exceeded.
+https://www.privateguards.com/careers/,200,https://www.privateguards.com/careers/,OK
+https://gibraltarsecurityservice.com/contact/,,,ConnectError
+https://www.tjx.com/careers,200,https://www.tjx.com/careers,OK
+https://secure6.saashr.com/ta/6122561.careers?CareersSearch,Invalid URL,,
+https://jobs.realpropertymgt.com,200,https://jobs.realpropertymgt.com,BrowserError: Timeout 30000ms exceeded.
+https://graniteescrow.com/careers,200,https://graniteescrow.com/careers/,CAPTCHA
+https://www.homerestaurantla.com/job-opportunities,403,https://www.homerestaurantla.com/job-opportunities,HTTP 403
+https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=004db6e1-f36e-48a1-bab5-263ab7707af2&ccId=19000101_000001&type=JS&lang=en_US,200,https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=004db6e1-f36e-48a1-bab5-263ab7707af2&ccId=19000101_000001&type=JS&lang=en_US,OK
+https://www.akatalent.com/akatalent.com,400,https://www.akatalent.com/akatalent.com,HTTP 400
+https://massageenvy.com/careers/find-a-job,200,https://www.massageenvy.com/careers/find-a-job,BrowserError: Timeout 30000ms exceeded.
+https://sizzler.com/join-the-sizzler-family/,200,https://sizzler.com/join-the-sizzler-family/,"BrowserError: Page.goto: Timeout 20000ms exceeded.
+Call log:
+navigating to ""https://sizzler.com/join-the-sizzler-family/"", waiting until ""load""
+"
+https://www.groundworkcoffee.com/pages/careers,200,https://www.groundworkcoffee.com/pages/careers,CAPTCHA
+https://www.tjx.com/careers,200,https://www.tjx.com/careers,OK
+https://www.tjx.com/careers,200,https://www.tjx.com/careers,OK
+https://tacosgavilan.com/careers/,200,https://tacosgavilan.com/careers/,OK
+https://www.laparks.org/jobs,200,https://www.laparks.org/jobs,OK
+https://recruiting.paylocity.com/recruiting/jobs/All/5f675d7c-1ab1-4140-ac36-6e2dd5c1ef65/Porven-LTD,200,https://recruiting.paylocity.com/recruiting/jobs/All/5f675d7c-1ab1-4140-ac36-6e2dd5c1ef65/Porven-LTD,OK
+https://www.uscold.com/careers/,200,https://www.uscold.com/careers/,BrowserError: Timeout 30000ms exceeded.
+https://careers-lfluckyladycasino.icims.com,200,https://careers-lfluckyladycasino.icims.com,OK
+https://oldrepublic.wd1.myworkdayjobs.com/oldrepublictitle,200,https://oldrepublic.wd1.myworkdayjobs.com/oldrepublictitle,OK
+https://mcperformance.com/m/login?r=%2Fjoin-our-team,200,https://mcperformance.com/m/login?r=%2Fjoin-our-team,BrowserError: Timeout 30000ms exceeded.
+https://jobs.becn.com/search/?createNewAlert=false&q=&locationsearch=Los+Angeles,200,https://jobs.qxo.com/careers-home,OK
+https://www.fivebelow.com/info/careers,200,https://www.fivebelow.com/info/careers,BrowserError: Timeout 30000ms exceeded.
+https://jobs.teamengine.io/dinasty_security,404,https://jobs.teamengine.io/dinasty_security,HTTP 404
+https://puroclean.com/anaheim-ca-puroclean-emergency-restoration/careers,200,https://www.puroclean.com/anaheim-ca-puroclean-emergency-restoration/careers/,OK
+https://kennelclubresort.com/employment.html,,,ConnectError
+https://rocheexcavatinginc.com/employment,200,https://rocheexcavatinginc.com/employment/,OK
+https://www.pavilions.com/careers.html,200,https://www.pavilions.com/careers.html,OK
+broadwayinhollywood.com/connect/employment,Invalid URL,,
+https://careers.marksmansecurity.com/careers-home/jobs,200,https://www.marksmansecurity.com/careers/,OK
+https://www.securitasinc.com/careers/,200,https://www.securitasinc.com/careers/,OK
+https://www.express.com/g/careers,200,https://careers.express.com,OK
+https://jobs.banfield.com/,200,https://jobs.banfield.com/,CAPTCHA
+https://jobs.unitedrentals.com,200,https://jobs.unitedrentals.com,BrowserError: Timeout 30000ms exceeded.
+https://www.worldmarketcorp.com/careers/,200,https://www.worldmarketcorp.com/careers/,OK
+https://www.tjx.com/careers,200,https://www.tjx.com/careers,OK
+https://www.kppm.com/careers/,200,https://www.kppm.com/careers/,OK
+https://www.rhcair.com/careers,200,https://www.rhcair.com/careers/,BrowserError: Timeout 30000ms exceeded.
+https://jwheatingandair.com/contact-us/careers,200,https://jwheatingandair.com/contact-us/careers,CAPTCHA
+https://campbellwindowfilm.com/careers,200,https://campbellwindowfilm.com/careers/,OK
+https://www.universalcourier.com/employment-opportunities,,,ConnectError
+https://www.santamonicachryslerjeepdodgeram.com/employment/index.htm,200,https://www.santamonicachryslerjeepdodgeram.com/employment/index.htm,"BrowserError: Page.goto: Timeout 20000ms exceeded.
+Call log:
+navigating to ""https://www.santamonicachryslerjeepdodgeram.com/employment/index.htm"", waiting until ""load""
+"
+https://www.mendocinofarmscareers.com/,200,https://www.mendocinofarmscareers.com/,OK
+https://talent.lowes.com/us/en/search-results,200,https://talent.lowes.com/us/en/search-results,BrowserError: Timeout 30000ms exceeded.
+"https://careers.dhl.com/amer/en/search-results?keywords=&p=ChIJE9on3F3HwoAR9AhGJW_fL-I&location=Los%20Angeles,%20CA,%20USA",200,"https://careers.dhl.com/amer/en/search-results?keywords=&p=ChIJE9on3F3HwoAR9AhGJW_fL-I&location=Los%20Angeles,%20CA,%20USA",OK
+https://www.nekterjuicebar.com/pages/careers,200,https://www.nekterjuicebar.com/pages/careers,BrowserError: Timeout 30000ms exceeded.
+https://www.mozzarestaurantgroup.com/jobs/,200,https://www.mozzarestaurantgroup.com/jobs/,CAPTCHA
+https://www.shopwss.com/pages/careers,200,https://www.shopwss.com/pages/careers,BrowserError: Timeout 30000ms exceeded.
+https://www.losangelesassociationmanagement.com/careers,200,https://www.losangelesassociationmanagement.com/careers,CAPTCHA
+https://www.losangelesassociationmanagement.com/careers,200,https://www.losangelesassociationmanagement.com/careers,CAPTCHA
+https://jobs.hilton.com/us/en,200,https://jobs.hilton.com/us/en,OK
+https://careers.goodwillsocal.org/en-US/search,200,https://careers.goodwillsocal.org/jobs?,OK
+https://careers.americantower.com/,200,https://careers.americantower.com/,OK
+https://www.coffeebean.com/careers,404,https://www.coffeebean.com/careers,HTTP 404
+https://jobs.harborfreight.com/,200,https://jobs.harborfreight.com/,BrowserError: Timeout 30000ms exceeded.
+https://www.tjx.com/careers,200,https://www.tjx.com/careers,OK
+https://www.gauchogrill.com/jobs/,200,https://www.gauchogrill.com/jobs/,BrowserError: Timeout 30000ms exceeded.
+https://loadedcafe.com/careers/,404,https://loadedcafe.com/careers/,HTTP 404
+https://careers.nfiindustries.com/careers-home/jobs,200,https://careers.nfiindustries.com/careers-home/jobs,OK
+http://www.actalentagency.com/submission,200,http://www.actalentagency.com/submission,OK
+https://www.mgrrealestate.com/about/careers/,200,https://www.mgrrealestate.com/about/careers/,OK
+https://www.orthomattress.com/pages/careers,200,https://www.orthomattress.com/pages/careers,BrowserError: Timeout 30000ms exceeded.
+https://www.mendocinofarmscareers.com/,200,https://www.mendocinofarmscareers.com/,OK
+https://www.pepboys.com/careers,403,https://www.pepboys.com/careers,HTTP 403
+https://cilantrolimelosangeles.com/careers,403,https://cilantrolimelosangeles.com/careers,HTTP 403
+https://www.securitasinc.com/careers/,200,https://www.securitasinc.com/careers/,OK
+https://www.kamsgoldsecurity.com/apply-now,,,ConnectError
+https://www.decron.com/careers,200,https://www.decron.com/careers,OK
+https://jobs.realpropertymgt.com/jobs?page_size=10&page_number=1&location_state=California&sort_by=headline&sort_order=ASC,200,https://jobs.realpropertymgt.com/jobs?page_size=10&page_number=1&sort_by=title&sort_order=ASC,OK
+https://gardenavalleynews.org/jobs/,200,https://gardenavalleynews.org/jobs/,OK
+https://jnarborcare.com/pages/careers,200,https://jnarborcare.com/pages/careers,CAPTCHA
+https://brusters.com/brusters-jobs/#,200,https://brusters.com/brusters-jobs/#,OK
+https://careers.orkin.com/orkin/jobs?state=California,200,https://careers.orkin.com/orkin/jobs?state=California,OK
+https://careers.hyatt.com/en-US/careers/,200,https://careers.hyatt.com/en-US/careers/,OK
