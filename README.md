@@ -20,7 +20,7 @@
 - URLs are shortened to a maximum of 80 characters.
 
 
-## Updates by Dharini (June 12)
+## Updates  (June 12)
 
 ### Changes made:
 
